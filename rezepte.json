@@ -756,6 +756,79 @@
       },
       "image": "bilder/thunfisch-wrap.jpg",
       "imageNote": "Von Rappy abgelegt. Zutaten nicht aus dem Foto ergänzen."
+    },
+    {
+      "id": "gegrillter-schafskaese-knoblauchtomaten",
+      "title": "Gegrillter Schafskäse mit Knoblauchtomaten",
+      "source": {
+        "name": "Chefkoch, Tickerix",
+        "title": "Gegrillter Schafskäse mit Knoblauchtomaten",
+        "url": "https://www.chefkoch.de/rezepte/2241701359108718/Gegrillter-Schafskaese-mit-Knoblauchtomaten.html"
+      },
+      "timeMin": 30,
+      "status": "v1, ungetestet",
+      "basisPersons": 2,
+      "scale": "Basis mal Personen/2. Käse und Tomaten linear. Eier gibt es keine.",
+      "ingredients": [
+        {
+          "item": "Knoblauchzehen",
+          "amount": 7,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Olivenöl",
+          "amount": 5,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Schafskäse",
+          "amount": 600,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Tomaten, mittel, reif",
+          "amount": 5,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Salz und schwarzer Pfeffer",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "aus der Mühle"
+        },
+        {
+          "item": "Basilikum",
+          "amount": 1,
+          "unit": "Bund",
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Ofen mit Umluft-Grill auf 220 °C vorheizen.",
+        "Knoblauch in Olivenöl pressen. Schafskäse in 1/2 cm Scheiben in die Form, Hälfte des Öls darüber.",
+        "Tomaten halbieren, Schnittfläche oben auf den Käse. Salzen, pfeffern, Restöl.",
+        "2. Schiene von unten ca. 15 Min.",
+        "Grill, mittlere Schiene, bis Käse leicht braun und Tomaten gegrillt wirken.",
+        "Basilikum in Streifen darüber."
+      ],
+      "trick": "Erst backen, dann kurz grillen.",
+      "open": [
+        "Welche Schafskäse-Sorte im Haus?"
+      ],
+      "nutritionPerPerson": {
+        "kcal": 1078,
+        "proteinG": 50.75,
+        "fatG": 90.44,
+        "carbsG": 13.9,
+        "note": "Chefkoch, KI-Schätzung laut Quelle"
+      },
+      "image": "bilder/gegrillter-schafskaese-knoblauchtomaten.jpg",
+      "imageNote": "Von Rappy, 90° gedreht für die Seite."
     }
   ]
 }
