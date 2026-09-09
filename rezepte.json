@@ -1,0 +1,761 @@
+{
+  "schema": 1,
+  "updated": "2026-09-09",
+  "rules": [
+    "Personen flexibel. basisPersons ist die Quellenmenge, nicht die einzige Portion.",
+    "Nie ein halbes Ei. Dose und Becher dürfen halb, Rest kühl.",
+    "amount null heißt Menge fehlt in der Quelle. Nicht raten.",
+    "Kein Channel, keine Fotos von Personen, kein Klarname.",
+    "Nährwerte nur übernehmen, wenn die Quelle sie ausweist. Nicht rechnen."
+  ],
+  "recipes": [
+    {
+      "id": "chinesische-nudeln-rind-zwiebeln",
+      "title": "Chinesische Nudeln mit Rind und Zwiebeln",
+      "source": {
+        "name": "Webspoon World",
+        "title": "10-Minute Beef & Onion Noodles",
+        "url": "https://youtu.be/D3yP8ITIIlg",
+        "page": "https://webspoon.world/recipes/beef--onion-noodles/"
+      },
+      "timeMin": 25,
+      "status": "v1, nicht nachgekocht",
+      "basisPersons": 2,
+      "scale": "Rechne die Gramm linear. Natron bleibt 1/2 TL pro 300 g Fleisch, nicht halbieren auf ein Ei-Problem. Nudelkuchen ganz lassen.",
+      "ingredients": [
+        {
+          "item": "Rind, ca. 1 cm Scheiben",
+          "amount": 300,
+          "unit": "g",
+          "per": "basis",
+          "note": "egal welches Teilstück"
+        },
+        {
+          "item": "Natron",
+          "amount": 0.5,
+          "unit": "TL",
+          "per": "basis",
+          "note": "nicht Backpulver. Auto-Untertitel sagte falsch Backpulver."
+        },
+        {
+          "item": "Wasser",
+          "amount": 80,
+          "unit": "ml",
+          "per": "basis"
+        },
+        {
+          "item": "Mirin",
+          "amount": 3,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Sojasauce",
+          "amount": 2,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Unagi-Sauce",
+          "amount": 1,
+          "unit": "EL",
+          "per": "basis",
+          "note": "Ersatz notfalls süße Soja oder Teriyaki"
+        },
+        {
+          "item": "Speisestärke",
+          "amount": 2,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Salz",
+          "amount": 0.5,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Frühlingszwiebeln",
+          "amount": 1,
+          "unit": "Bund",
+          "per": "basis"
+        },
+        {
+          "item": "Zwiebel",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Nudelkuchen",
+          "amount": 2,
+          "unit": "Stück",
+          "per": "basis",
+          "note": "wie Instant-Weizennudeln, Marke offen"
+        },
+        {
+          "item": "neutrales Öl",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "dünne Schicht"
+        },
+        {
+          "item": "Austernsauce",
+          "amount": 1,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "dunkle Sojasauce",
+          "amount": 2,
+          "unit": "EL",
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Rind in etwa 1 cm Scheiben.",
+        "1/2 TL Natron und 80 ml Wasser einarbeiten. Folie aufs Fleisch, kurz klopfen. 15 Min. ruhen.",
+        "Gründlich abspülen und abtropfen.",
+        "Marinade: Mirin, Sojasauce, Unagi, dann Stärke und Salz. Jede Scheibe glänzend.",
+        "Frühlingszwiebeln in 3 cm, Zwiebel in Halbmonde. Öl heiß. Parallel Nudelwasser.",
+        "Rind in die heiße Pfanne, sofort brutzeln, wenden.",
+        "2 Nudelkuchen ins kochende Wasser, bissfest.",
+        "Zwiebeln zum Rind, dann Frühlingszwiebeln. Kurz.",
+        "Nudeln dazu. 1 EL Austernsauce und 2 EL dunkle Sojasauce. Drehen bis bedeckt."
+      ],
+      "trick": "Zartheit kommt vom Natron-Bad, danach spülen.",
+      "open": [
+        "Welche Nudel-Marke?",
+        "Unagi im Haus oder Ersatz?",
+        "Nach dem Kochen zu süß, zu dunkel, zu salzig?"
+      ],
+      "image": "bilder/chinesische-nudeln-rind-zwiebeln.jpg",
+      "imageNote": "Webspoon-Standbild der Rezeptseite, nicht selbst fotografiert."
+    },
+    {
+      "id": "speck-zwiebel-dip",
+      "title": "Speck-Zwiebel-Dip",
+      "source": {
+        "name": "Webspoon World",
+        "title": "6 Loaded Party Dips",
+        "url": "https://youtu.be/gsSBY-GwysI",
+        "page": "https://webspoon.world/videos/6-loaded-party-dips-that-disappear-first/",
+        "span": "0:00–2:46"
+      },
+      "timeMin": 40,
+      "status": "v1, nicht nachgekocht",
+      "basisPersons": 4,
+      "scale": "Gramm linear. Speckpackung nicht zerschneiden müssen, Rest kühl.",
+      "ingredients": [
+        {
+          "item": "Speck",
+          "amount": 200,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Zwiebel",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Weizenmehl",
+          "amount": 3,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "geräucherte Paprika",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Brühe",
+          "amount": 400,
+          "unit": "ml",
+          "per": "basis",
+          "note": "Gemüse, Huhn oder Rind, offen"
+        },
+        {
+          "item": "Frischkäse",
+          "amount": 100,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Petersilie",
+          "amount": 5,
+          "unit": "Zweige",
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Zwiebel fein würfeln.",
+        "Speck klein. Allein etwa 10 Min., Fett auslassen, Kanten knusprig.",
+        "Zwiebel dazu, etwa 5 Min. goldgelb.",
+        "Mehl und geräucherte Paprika einrühren.",
+        "Brühe dazu, etwa 15 Min. köcheln bis dick.",
+        "Vom Herd. Frischkäse und Petersilie unterrühren."
+      ],
+      "trick": "Speck zuerst ohne Zwiebel.",
+      "open": [
+        "Welche Brühe?",
+        "Zu salzig durch Speck plus Brühe?"
+      ],
+      "image": "bilder/speck-zwiebel-dip.jpg",
+      "imageNote": "Videoframe, Toast. Kein Topf-Close-up."
+    },
+    {
+      "id": "ofen-zwiebel-tomaten-dip",
+      "title": "Ofen-Zwiebel-Dip mit getrockneten Tomaten",
+      "source": {
+        "name": "Webspoon World",
+        "title": "6 Loaded Party Dips",
+        "url": "https://youtu.be/gsSBY-GwysI",
+        "span": "2:46–4:48"
+      },
+      "timeMin": 75,
+      "status": "v1, Mengen lückenhaft, nicht nachgekocht",
+      "basisPersons": 4,
+      "scale": "Nicht hochrechnen, wo die Menge fehlt.",
+      "ingredients": [
+        {
+          "item": "Zwiebeln, dünn",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "Menge fehlt"
+        },
+        {
+          "item": "getrocknete Tomaten aus dem Glas",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Öl aus dem Tomatenglas",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Paprika",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "italienische Kräuter",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Knoblauch, ganz",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Olivenöl",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Sahne 33 %",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Petersilie",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Zwiebeln dünn in eine Auflaufform.",
+        "Öl aus dem Tomatenglas und gehackte Tomaten untermischen.",
+        "Paprika und italienische Kräuter, mit den Händen mischen.",
+        "Ganzen Knoblauch, Kuppe ab, Olivenöl darüber.",
+        "Folie. 200 °C Umluft, 1 Stunde. Alle 20 Min. rühren.",
+        "Röstknoblauch in die Form drücken. Sahne und Petersilie unterrühren."
+      ],
+      "trick": "Die Stunde macht der Ofen.",
+      "open": [
+        "Mengen Zwiebel, Tomaten, Sahne, Paprika, Kräuter fehlen.",
+        "Butter und Zitronensaft stehen nur in der Description.",
+        "Pasta: Fusilli oder Farfalle?"
+      ],
+      "image": "bilder/ofen-zwiebel-tomaten-dip.jpg",
+      "imageNote": "Videoframe, Toast. Kein Topf-Close-up."
+    },
+    {
+      "id": "huettenkaese-speck-dip",
+      "title": "Schmelzender Hüttenkäse-Speck-Dip",
+      "source": {
+        "name": "Webspoon World",
+        "title": "6 Loaded Party Dips",
+        "url": "https://youtu.be/gsSBY-GwysI",
+        "span": "4:48–6:27"
+      },
+      "timeMin": 15,
+      "status": "v1, nicht nachgekocht",
+      "basisPersons": null,
+      "scale": "Quelle nennt keine Personen. Ei bleibt ganz. Nicht auf ein halbes Ei skalieren.",
+      "ingredients": [
+        {
+          "item": "Hüttenkäse 5 %",
+          "amount": 250,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Ei",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis",
+          "note": "nie halbieren"
+        },
+        {
+          "item": "Natron",
+          "amount": 2,
+          "unit": "g",
+          "per": "basis",
+          "note": "etwa 1/3 TL. Nicht Backpulver."
+        },
+        {
+          "item": "Salz",
+          "amount": 2,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Butter, weich",
+          "amount": 40,
+          "unit": "g",
+          "per": "basis",
+          "note": "Transkript 30–50 g"
+        },
+        {
+          "item": "Speck, gebraten",
+          "amount": 50,
+          "unit": "g",
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Hüttenkäse, Ei, Natron, Salz, Butter glatt mixen.",
+        "Auf niedriger Hitze rühren bis seidig.",
+        "Speck unterheben."
+      ],
+      "trick": "Niedrige Hitze, sonst keine Seide.",
+      "open": [
+        "Personen fehlen in der Quelle.",
+        "Butter 40 g oder 30–50 g?",
+        "Zu salzig mit Speck?"
+      ],
+      "image": "bilder/huettenkaese-speck-dip.jpg",
+      "imageNote": "Videoframe, Grissini. Kein Schüttbild."
+    },
+    {
+      "id": "whipped-feta-oliven-knoblauch",
+      "title": "Whipped Feta mit Oliven und Röstknoblauch",
+      "source": {
+        "name": "Webspoon World",
+        "title": "6 Loaded Party Dips",
+        "url": "https://youtu.be/gsSBY-GwysI",
+        "span": "6:27–7:38"
+      },
+      "timeMin": 25,
+      "status": "v1, nicht nachgekocht",
+      "basisPersons": null,
+      "scale": "Quelle nennt keine Personen. Knoblauch ganz lassen.",
+      "ingredients": [
+        {
+          "item": "Knoblauch, ganz",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "getrockneter Thymian",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Olivenöl",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Oliven, abgetropft",
+          "amount": 250,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Feta",
+          "amount": 200,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Chili-Flocken",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "nur im Transkript"
+        }
+      ],
+      "steps": [
+        "Knoblauch mit Thymian und Olivenöl in Folie, 20 Min. bei 200 °C.",
+        "Oliven und Feta in den Mixer.",
+        "Weichen Knoblauch und Chili. Mixen bis streichfähig.",
+        "Toast in Butter. Dip, Basilikum und Olivenöl."
+      ],
+      "trick": "Röstknoblauch gegen die salzigen Oliven.",
+      "open": [
+        "Welche Oliven?",
+        "Chili und Basilikum behalten?"
+      ],
+      "image": "bilder/whipped-feta-oliven-knoblauch.jpg",
+      "imageNote": "Webspoon-Standbild der Rezeptseite, nicht selbst fotografiert."
+    },
+    {
+      "id": "kuerbis-feta-honig",
+      "title": "Kürbis-Feta-Dip mit Honig und Walnüssen",
+      "source": {
+        "name": "Webspoon World",
+        "title": "6 Loaded Party Dips",
+        "url": "https://youtu.be/gsSBY-GwysI",
+        "span": "7:38–8:52"
+      },
+      "timeMin": 20,
+      "status": "v1, nicht nachgekocht",
+      "basisPersons": null,
+      "scale": "Quelle nennt keine Personen. Fehlende Mengen nicht raten.",
+      "ingredients": [
+        {
+          "item": "Kürbis",
+          "amount": 400,
+          "unit": "g",
+          "per": "basis",
+          "note": "Sorte offen"
+        },
+        {
+          "item": "Feta",
+          "amount": 200,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Salz",
+          "amount": 0.5,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Muskat",
+          "amount": 0.33,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "schwarzer Pfeffer",
+          "amount": 0.33,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Knoblauchzehen",
+          "amount": 3,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Honig",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Walnüsse",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Kerne raus, dicke Scheiben, je eine Folienpackung.",
+        "20 Min. bei 180 °C.",
+        "Feta mit Salz, Muskat, Pfeffer. Kürbis und Knoblauch glatt mixen.",
+        "Kalt stellen bis fest.",
+        "Kalt auf heißem Toast. Honig und Walnüsse."
+      ],
+      "trick": "Feta plus Honig, Kürbis die Süße ohne zu dominieren.",
+      "open": [
+        "Hokkaido, Butternut oder Muskat?",
+        "Wie viel Honig und Walnüsse?"
+      ],
+      "image": "bilder/kuerbis-feta-honig.jpg",
+      "imageNote": "Webspoon-Standbild der Rezeptseite, nicht selbst fotografiert."
+    },
+    {
+      "id": "frischkaese-zwiebel-bohnen-dip",
+      "title": "Frischkäse-Zwiebel-Dip",
+      "source": {
+        "name": "Webspoon World",
+        "title": "6 Loaded Party Dips",
+        "url": "https://youtu.be/gsSBY-GwysI",
+        "span": "8:52–Ende"
+      },
+      "timeMin": 45,
+      "status": "v1, nicht nachgekocht",
+      "basisPersons": 4,
+      "scale": "Zitrone bleibt ganz kaufen, Abrieb und Saft von einer halben sind Rest im Kühlschrank.",
+      "ingredients": [
+        {
+          "item": "Rosmarin",
+          "amount": 2,
+          "unit": "Zweige",
+          "per": "basis"
+        },
+        {
+          "item": "Knoblauchzehen",
+          "amount": 4,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Zwiebeln",
+          "amount": 3,
+          "unit": "Stück",
+          "per": "basis",
+          "note": "Rezeptseite sagt red onions"
+        },
+        {
+          "item": "Butter",
+          "amount": 40,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Bohnen",
+          "amount": 240,
+          "unit": "g",
+          "per": "basis",
+          "note": "Sorte fehlt"
+        },
+        {
+          "item": "Frischkäse",
+          "amount": 180,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Salz",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "schwarzer Pfeffer",
+          "amount": 0.33,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Zitronenabrieb",
+          "amount": 0.5,
+          "unit": "Zitrone",
+          "per": "basis"
+        },
+        {
+          "item": "Zitronensaft",
+          "amount": 0.5,
+          "unit": "Zitrone",
+          "per": "basis"
+        },
+        {
+          "item": "Olivenöl",
+          "amount": 2,
+          "unit": "EL",
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Rosmarin fein, Knoblauch klein, Zwiebeln Halbmonde.",
+        "Butter schäumen. Zwiebel, Rosmarin, Knoblauch. 30 Min. niedrige Hitze.",
+        "Bohnen, Frischkäse, Salz, Pfeffer, Zitronenabrieb und Saft.",
+        "2 EL Olivenöl, einmal mixen.",
+        "Kalt auf Toast."
+      ],
+      "trick": "Die 30 Minuten sind der Geschmack.",
+      "open": [
+        "Welche Bohnen?",
+        "Rote oder gelbe Zwiebeln?"
+      ],
+      "image": "bilder/frischkaese-zwiebel-bohnen-dip.jpg",
+      "imageNote": "Webspoon-Standbild der Rezeptseite, nicht selbst fotografiert."
+    },
+    {
+      "id": "pfannen-gnocchi-berner",
+      "title": "Pfannen-Gnocchi mit Berner Würstchen",
+      "source": {
+        "name": "Rappy",
+        "title": "Haushalt",
+        "url": null
+      },
+      "timeMin": 25,
+      "status": "v2 Haushalt, Tellerfoto 2026-09-09",
+      "basisPersons": 1,
+      "scale": "Teller linear: Gnocchi, Berner, Eier. Eier fest 2, ganz, nie halb. Ein Fix-/Bratensoßen-Päckchen reicht für 4 Portionen, nicht pro Teller.",
+      "ingredients": [
+        {
+          "item": "Pfannen-Gnocchi RANA",
+          "amount": 140,
+          "unit": "g",
+          "per": "portion",
+          "note": "ca."
+        },
+        {
+          "item": "Aioli",
+          "amount": null,
+          "unit": null,
+          "per": "portion",
+          "note": "nach Geschmack"
+        },
+        {
+          "item": "Mozzarella",
+          "amount": null,
+          "unit": null,
+          "per": "portion"
+        },
+        {
+          "item": "Kräuterbutter",
+          "amount": null,
+          "unit": null,
+          "per": "portion"
+        },
+        {
+          "item": "Berner Würstchen",
+          "amount": 4,
+          "unit": "Stück",
+          "per": "portion"
+        },
+        {
+          "item": "Spiegeleier, weicher Dotter",
+          "amount": 2,
+          "unit": "Stück",
+          "per": "portion",
+          "note": "fest, beim Kochen leicht anpassbar"
+        },
+        {
+          "item": "Fix oder Bratensoße",
+          "amount": 1,
+          "unit": "Päckchen",
+          "per": "4 Portionen",
+          "note": "reicht locker für vier Teller"
+        },
+        {
+          "item": "Tzatziki",
+          "amount": null,
+          "unit": null,
+          "per": "portion",
+          "note": "kalt als Dip"
+        }
+      ],
+      "steps": [
+        "Kräuterbutter schmelzen. Ca. 140 g Gnocchi mit Aioli und Mozzarella langsam goldbraun.",
+        "4 Berner Würstchen langsam goldbraun.",
+        "2 Spiegeleier, Dotter weich. Beim Kochen leicht anpassbar.",
+        "Warme Soße dazu, ein Päckchen für vier Portionen. Tzatziki kalt als Dip."
+      ],
+      "trick": "Langsam braten. Weicher Dotter ist die Soße. Das Päckchen nicht pro Teller anrühren.",
+      "open": [
+        "Mengen Aioli, Mozzarella, Kräuterbutter fehlen."
+      ],
+      "image": "bilder/pfannen-gnocchi-berner.jpg",
+      "imageNote": "Eigenes Tellerfoto. Nur Gericht, keine Personen."
+    },
+    {
+      "id": "thunfisch-wrap",
+      "title": "Thunfisch-Wrap",
+      "source": {
+        "name": "Chefkoch, muttimami",
+        "title": "Thunfisch-Wrap",
+        "url": "https://www.chefkoch.de/rezepte/430961134292969/Thunfisch-Wrap.html"
+      },
+      "timeMin": 10,
+      "status": "v1, ungetestet",
+      "basisPersons": 2,
+      "scale": "Basis mal Personen/2. Halbe Dose und halber Becher sind ok, Rest kühl. Tortilla-Packung 6 oder 8, Rest bleibt liegen.",
+      "ingredients": [
+        {
+          "item": "Tortillas",
+          "amount": 4,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Kräuterfrischkäse",
+          "amount": 200,
+          "unit": "g",
+          "per": "basis",
+          "note": "ein Becher"
+        },
+        {
+          "item": "Salatblätter, groß",
+          "amount": 4,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Tomaten",
+          "amount": 2,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Thunfisch im eigenen Saft",
+          "amount": 1,
+          "unit": "Dose 185 g",
+          "per": "basis",
+          "note": "Abtropf etwa 130–140 g"
+        },
+        {
+          "item": "Karotten",
+          "amount": 2,
+          "unit": "Stück",
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Tomaten in Scheiben, Karotten raspeln.",
+        "Thunfisch abtropfen. Tortillas mit der Hälfte des Frischkäses bestreichen. Salat und Tomate darauf. Thunfisch mit Karotten und restlichem Frischkäse mischen und verteilen.",
+        "Einschlagen, einrollen, Ende mit Butterbrotpapier."
+      ],
+      "trick": "Butterbrotpapier hält das Ende zu.",
+      "open": [
+        "Würze nach dem ersten Mal."
+      ],
+      "nutritionPerPerson": {
+        "source": "Chefkoch",
+        "kcal": 386,
+        "proteinG": 24.12,
+        "fatG": 22.57,
+        "carbsG": 21.47
+      },
+      "image": "bilder/thunfisch-wrap.jpg",
+      "imageNote": "Von Rappy abgelegt. Zutaten nicht aus dem Foto ergänzen."
+    }
+  ]
+}
