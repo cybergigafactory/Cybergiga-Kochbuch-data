@@ -627,19 +627,6 @@
           "note": "ca."
         },
         {
-          "item": "Aioli",
-          "amount": null,
-          "unit": null,
-          "per": "portion",
-          "note": "nach Geschmack"
-        },
-        {
-          "item": "Mozzarella",
-          "amount": null,
-          "unit": null,
-          "per": "portion"
-        },
-        {
           "item": "Kräuterbutter",
           "amount": null,
           "unit": null,
@@ -674,14 +661,14 @@
         }
       ],
       "steps": [
-        "Kräuterbutter schmelzen. Ca. 140 g Gnocchi mit Aioli und Mozzarella langsam goldbraun.",
+        "Kräuterbutter schmelzen. Ca. 140 g Gnocchi langsam goldbraun.",
         "4 Berner Würstchen langsam goldbraun.",
         "2 Spiegeleier, Dotter weich. Beim Kochen leicht anpassbar.",
         "Warme Soße dazu, ein Päckchen für vier Portionen. Tzatziki kalt als Dip."
       ],
       "trick": "Langsam braten. Weicher Dotter ist die Soße. Das Päckchen nicht pro Teller anrühren.",
       "open": [
-        "Mengen Aioli, Mozzarella, Kräuterbutter fehlen."
+        "Mengen Kräuterbutter fehlen."
       ],
       "image": "bilder/pfannen-gnocchi-berner.jpg",
       "imageNote": "Eigenes Tellerfoto. Nur Gericht, keine Personen."
