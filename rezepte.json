@@ -829,6 +829,975 @@
       },
       "image": "bilder/gegrillter-schafskaese-knoblauchtomaten.jpg",
       "imageNote": "Von Rappy, 90° gedreht für die Seite."
+    },
+    {
+      "id": "zitronenkuchen",
+      "title": "Saftiger Zitronenkuchen",
+      "source": {
+        "name": "Cybergiga-Kitchen (Grok Build)",
+        "title": "Saftiger Zitronenkuchen",
+        "url": "https://cybergiga-kitchen.grok.me/rezept/zitronenkuchen"
+      },
+      "timeMin": 55,
+      "status": "v1, ungetestet",
+      "basisPersons": 4,
+      "scale": "Basis mal Personen/4. Eier ganz, nie halb.",
+      "ingredients": [
+        {
+          "item": "Butter (weich)",
+          "amount": 150,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Zucker",
+          "amount": 140,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Eier",
+          "amount": 3,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Mehl (Type 405)",
+          "amount": 180,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Backpulver",
+          "amount": 1,
+          "unit": "Päckchen",
+          "per": "basis"
+        },
+        {
+          "item": "Bio-Zitronen",
+          "amount": 2,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Naturjoghurt",
+          "amount": 120,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Puderzucker",
+          "amount": 120,
+          "unit": "g",
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Ofen auf 175 °C Ober-/Unterhitze vorheizen. Blech (ca. 30×20 cm) einfetten und mit Papier auslegen.",
+        "Butter und Zucker schaumig rühren. Eier einzeln unterrühren. Schale beider Zitronen dazu.",
+        "Mehl mit Backpulver mischen, abwechselnd mit Joghurt unterheben.",
+        "Teig glatt streichen, 30–35 Minuten backen. Stäbchenprobe.",
+        "Saft einer Zitrone mit Puderzucker zu einer dickflüssigen Glasur rühren. Auf den noch lauwarmen Kuchen geben."
+      ],
+      "trick": null,
+      "open": [
+        "Nährwerte fehlen auf der Live-Seite."
+      ],
+      "image": "bilder/zitronenkuchen.jpg",
+      "imageNote": "Von der Live-Seite übernommen."
+    },
+    {
+      "id": "hafer-plaetzchen",
+      "title": "Hafer-Schoko-Plätzchen",
+      "source": {
+        "name": "Cybergiga-Kitchen (Grok Build)",
+        "title": "Hafer-Schoko-Plätzchen",
+        "url": "https://cybergiga-kitchen.grok.me/rezept/hafer-plaetzchen"
+      },
+      "timeMin": 27,
+      "status": "v1, ungetestet",
+      "basisPersons": 4,
+      "scale": "Basis mal Personen/4. Eier ganz, nie halb.",
+      "ingredients": [
+        {
+          "item": "Haferflocken (kernig)",
+          "amount": 150,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Mehl (Type 405)",
+          "amount": 100,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Butter",
+          "amount": 100,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "brauner Zucker",
+          "amount": 80,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Ei",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Zartbitter-Schokodrops",
+          "amount": 80,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Backpulver",
+          "amount": 0.5,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Vanillezucker",
+          "amount": 1,
+          "unit": "Päckchen",
+          "per": "basis"
+        },
+        {
+          "item": "Prise Salz",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Ofen auf 180 °C vorheizen. Blech mit Backpapier auslegen.",
+        "Butter und Zucker schaumig rühren, Ei und Vanillezucker unterrühren.",
+        "Haferflocken, Mehl, Backpulver und Salz mischen, unterheben. Schokodrops dazu.",
+        "Mit zwei Löffeln 12 Häufchen aufs Blech setzen, flach drücken. 12 Minuten goldbraun backen.",
+        "Auf dem Blech 5 Minuten ruhen lassen, dann auf einem Gitter auskühlen."
+      ],
+      "trick": null,
+      "open": [
+        "Nährwerte fehlen auf der Live-Seite."
+      ],
+      "image": "bilder/hafer-plaetzchen.jpg",
+      "imageNote": "Von der Live-Seite übernommen."
+    },
+    {
+      "id": "dattel-kugeln",
+      "title": "Dattel-Kakao-Kugeln",
+      "source": {
+        "name": "Cybergiga-Kitchen (Grok Build)",
+        "title": "Dattel-Kakao-Kugeln",
+        "url": "https://cybergiga-kitchen.grok.me/rezept/dattel-kugeln"
+      },
+      "timeMin": 15,
+      "status": "v1, ungetestet",
+      "basisPersons": 4,
+      "scale": "Basis mal Personen/4.",
+      "ingredients": [
+        {
+          "item": "Medjool-Datteln (entsteint)",
+          "amount": 200,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Mandeln",
+          "amount": 80,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Haferflocken",
+          "amount": 40,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "ungesüßtes Kakaopulver",
+          "amount": 2,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Kokosöl",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Prise Salz",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Kakaopulver zum Wälzen",
+          "amount": 1,
+          "unit": "EL",
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Datteln, Mandeln, Haferflocken, Kakao, Kokosöl und Salz im Mixer zu einer klebrigen Masse mahlen.",
+        "Mit feuchten Händen 16 Kugeln formen.",
+        "In Kakao wälzen. Kühl und fest werden lassen oder gleich essen."
+      ],
+      "trick": null,
+      "open": [
+        "Nährwerte fehlen auf der Live-Seite."
+      ],
+      "image": "bilder/dattel-kugeln.jpg",
+      "imageNote": "Von der Live-Seite übernommen."
+    },
+    {
+      "id": "shakshuka",
+      "title": "Shakshuka mit Feta",
+      "source": {
+        "name": "Cybergiga-Kitchen (Grok Build)",
+        "title": "Shakshuka mit Feta",
+        "url": "https://cybergiga-kitchen.grok.me/rezept/shakshuka"
+      },
+      "timeMin": 40,
+      "status": "v1, ungetestet",
+      "basisPersons": 4,
+      "scale": "Basis mal Personen/4. Eier ganz, nie halb.",
+      "ingredients": [
+        {
+          "item": "Eier",
+          "amount": 8,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "rote Paprika",
+          "amount": 2,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Zwiebeln",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Knoblauchzehen",
+          "amount": 3,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "stückige Tomaten (Dose)",
+          "amount": 800,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Olivenöl",
+          "amount": 2,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Kreuzkümmel",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "edelsüßes Paprikapulver",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Chiliflocken",
+          "amount": 0.5,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Feta",
+          "amount": 150,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "glatte Petersilie",
+          "amount": 0.5,
+          "unit": "Bund",
+          "per": "basis"
+        },
+        {
+          "item": "Salz",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "schwarzer Pfeffer",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "nach Geschmack"
+        },
+        {
+          "item": "Krustenbrot",
+          "amount": 4,
+          "unit": "Scheiben",
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Zwiebel und Paprika in Streifen, Knoblauch fein hacken. Öl in einer großen Pfanne erhitzen, Gemüse 8 Minuten weich braten.",
+        "Gewürze dazu, kurz mitrösten. Tomaten einrühren, salzen, 10 Minuten einkochen lassen, bis die Sauce sitzt.",
+        "Mit einem Löffel 8 Mulden drücken, Eier hineinschlagen. Bei geschlossenem Deckel 6–8 Minuten stocken lassen.",
+        "Feta zerbröseln, Petersilie hacken, beides darüberstreuen.",
+        "Direkt aus der Pfanne mit Brot essen."
+      ],
+      "trick": null,
+      "open": [
+        "Nährwerte fehlen auf der Live-Seite."
+      ],
+      "image": "bilder/shakshuka.jpg",
+      "imageNote": "Von der Live-Seite übernommen."
+    },
+    {
+      "id": "paprika-haehnchen",
+      "title": "Paprika-Hähnchen vom Blech",
+      "source": {
+        "name": "Cybergiga-Kitchen (Grok Build)",
+        "title": "Paprika-Hähnchen vom Blech",
+        "url": "https://cybergiga-kitchen.grok.me/rezept/paprika-haehnchen"
+      },
+      "timeMin": 60,
+      "status": "v1, ungetestet",
+      "basisPersons": 4,
+      "scale": "Basis mal Personen/4.",
+      "ingredients": [
+        {
+          "item": "Hähnchenkeulen",
+          "amount": 8,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "rote Paprika",
+          "amount": 2,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "gelbe Paprika",
+          "amount": 2,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "rote Zwiebeln",
+          "amount": 2,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Knoblauchzehen",
+          "amount": 4,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Olivenöl",
+          "amount": 3,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "edelsüßes Paprikapulver",
+          "amount": 2,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "geräuchertes Paprikapulver",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Kreuzkümmel",
+          "amount": 0.5,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Zitrone",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "glatte Petersilie",
+          "amount": 0.5,
+          "unit": "Bund",
+          "per": "basis"
+        },
+        {
+          "item": "Salz",
+          "amount": 1.5,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "schwarzer Pfeffer",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "nach Geschmack"
+        }
+      ],
+      "steps": [
+        "Ofen auf 210 °C Ober-/Unterhitze vorheizen. Blech mit Backpapier auslegen.",
+        "Paprika in grobe Spalten, Zwiebeln in Spalten, Knoblauch ungeschält lassen.",
+        "Hähnchen trocken tupfen. Mit Öl, beiden Paprikasorten, Kreuzkümmel, Salz und Pfeffer einreiben.",
+        "Alles auf dem Blech verteilen, Zitrone in Spalten dazulegen. 40 Minuten braten, bis die Haut knusprig ist.",
+        "Mit Petersilie und dem Saft der gerösteten Zitrone servieren. Brot oder Reis dazu."
+      ],
+      "trick": null,
+      "open": [
+        "Nährwerte fehlen auf der Live-Seite."
+      ],
+      "image": "bilder/paprika-haehnchen.jpg",
+      "imageNote": "Von der Live-Seite übernommen."
+    },
+    {
+      "id": "ofengemuese",
+      "title": "Ofengemüse mit Kichererbsen",
+      "source": {
+        "name": "Cybergiga-Kitchen (Grok Build)",
+        "title": "Ofengemüse mit Kichererbsen",
+        "url": "https://cybergiga-kitchen.grok.me/rezept/ofengemuese"
+      },
+      "timeMin": 50,
+      "status": "v1, ungetestet",
+      "basisPersons": 4,
+      "scale": "Basis mal Personen/4.",
+      "ingredients": [
+        {
+          "item": "Süßkartoffeln",
+          "amount": 600,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Brokkoli",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "rote Zwiebeln",
+          "amount": 2,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Kichererbsen (Dose, abgetropft)",
+          "amount": 400,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Olivenöl",
+          "amount": 3,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Kreuzkümmel",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "edelsüßes Paprikapulver",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Tahini",
+          "amount": 3,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Zitrone",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Ahornsirup",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Granatapfelkerne",
+          "amount": 4,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "glatte Petersilie",
+          "amount": 0.5,
+          "unit": "Bund",
+          "per": "basis"
+        },
+        {
+          "item": "Salz",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "schwarzer Pfeffer",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "nach Geschmack"
+        }
+      ],
+      "steps": [
+        "Ofen auf 200 °C Umluft vorheizen. Süßkartoffel in Würfel, Brokkoli in Röschen, Zwiebel in Spalten.",
+        "Kichererbsen abtropfen und trocken tupfen. Alles mit 2 EL Öl, Kreuzkümmel, Paprika, Salz und Pfeffer mischen.",
+        "Auf einem Blech 30–35 Minuten rösten, bis die Kanten dunkelgold sind. Einmal wenden.",
+        "Tahini mit Zitronensaft, 1 EL Öl, Ahornsirup, einer Prise Salz und etwas Wasser glatt rühren.",
+        "Gemüse anrichten, Tahini darüberziehen, Granatapfel und Petersilie darüber."
+      ],
+      "trick": null,
+      "open": [
+        "Nährwerte fehlen auf der Live-Seite."
+      ],
+      "image": "bilder/ofengemuese.jpg",
+      "imageNote": "Von der Live-Seite übernommen."
+    },
+    {
+      "id": "lachs-dill",
+      "title": "Lachs auf Dillkartoffeln",
+      "source": {
+        "name": "Cybergiga-Kitchen (Grok Build)",
+        "title": "Lachs auf Dillkartoffeln",
+        "url": "https://cybergiga-kitchen.grok.me/rezept/lachs-dill"
+      },
+      "timeMin": 45,
+      "status": "v1, ungetestet",
+      "basisPersons": 4,
+      "scale": "Basis mal Personen/4.",
+      "ingredients": [
+        {
+          "item": "Lachsfilets mit Haut",
+          "amount": 4,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "festkochende Kartoffeln",
+          "amount": 800,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Butter",
+          "amount": 40,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Olivenöl",
+          "amount": 1,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "frischer Dill",
+          "amount": 1,
+          "unit": "Bund",
+          "per": "basis"
+        },
+        {
+          "item": "Zitrone",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "grüne Erbsen (TK)",
+          "amount": 200,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Salz",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "schwarzer Pfeffer",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "nach Geschmack"
+        }
+      ],
+      "steps": [
+        "Kartoffeln waschen, vierteln, in Salzwasser 15 Minuten gar kochen. Erbsen in den letzten 3 Minuten dazu.",
+        "Lachs trocken tupfen, Haut salzen. Öl in einer Pfanne heiß werden lassen, Lachs hautseitig 6 Minuten braten, ohne zu schieben.",
+        "Wenden, 2–3 Minuten fertig garen. Mit Pfeffer und etwas Zitronensaft würzen.",
+        "Kartoffeln abgießen, Butter und grob gehackten Dill unterheben, salzen.",
+        "Lachs auf den Dillkartoffeln anrichten, Zitronenspalten dazu."
+      ],
+      "trick": null,
+      "open": [
+        "Nährwerte fehlen auf der Live-Seite."
+      ],
+      "image": "bilder/lachs-dill.jpg",
+      "imageNote": "Von der Live-Seite übernommen."
+    },
+    {
+      "id": "bolognese",
+      "title": "Spaghetti Bolognese",
+      "source": {
+        "name": "Cybergiga-Kitchen (Grok Build)",
+        "title": "Spaghetti Bolognese",
+        "url": "https://cybergiga-kitchen.grok.me/rezept/bolognese"
+      },
+      "timeMin": 75,
+      "status": "v1, ungetestet",
+      "basisPersons": 4,
+      "scale": "Basis mal Personen/4.",
+      "ingredients": [
+        {
+          "item": "Spaghetti",
+          "amount": 400,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Rinderhackfleisch",
+          "amount": 400,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Zwiebeln",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Karotte",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Stange Staudensellerie",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Knoblauchzehen",
+          "amount": 2,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Olivenöl",
+          "amount": 2,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Tomatenmark",
+          "amount": 2,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "passierte Tomaten",
+          "amount": 500,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "trockener Rotwein",
+          "amount": 100,
+          "unit": "ml",
+          "per": "basis"
+        },
+        {
+          "item": "Vollmilch",
+          "amount": 80,
+          "unit": "ml",
+          "per": "basis"
+        },
+        {
+          "item": "Lorbeerblatt",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Parmesan",
+          "amount": 60,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Salz",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "schwarzer Pfeffer",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "nach Geschmack"
+        }
+      ],
+      "steps": [
+        "Zwiebel, Karotte und Sellerie sehr fein würfeln (Soffritto). Knoblauch hacken.",
+        "Öl in einem schweren Topf erhitzen, Gemüse 8 Minuten weich dünsten. Hack dazu, krümelig anbraten.",
+        "Tomatenmark einrühren, 2 Minuten rösten. Mit Wein ablöschen, einkochen lassen.",
+        "Passierte Tomaten, Milch, Lorbeer, Salz und Pfeffer dazu. 40 Minuten bei kleiner Hitze köcheln, gelegentlich rühren.",
+        "Spaghetti al dente kochen. Sauce abschmecken, Lorbeer entfernen, mit Parmesan servieren."
+      ],
+      "trick": null,
+      "open": [
+        "Nährwerte fehlen auf der Live-Seite."
+      ],
+      "image": "bilder/bolognese.jpg",
+      "imageNote": "Von der Live-Seite übernommen."
+    },
+    {
+      "id": "kokos-curry",
+      "title": "Thai-Kokos-Curry mit Garnelen",
+      "source": {
+        "name": "Cybergiga-Kitchen (Grok Build)",
+        "title": "Thai-Kokos-Curry mit Garnelen",
+        "url": "https://cybergiga-kitchen.grok.me/rezept/kokos-curry"
+      },
+      "timeMin": 35,
+      "status": "v1, ungetestet",
+      "basisPersons": 4,
+      "scale": "Basis mal Personen/4.",
+      "ingredients": [
+        {
+          "item": "Garnelen (roh, geschält)",
+          "amount": 400,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Jasminreis",
+          "amount": 250,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "rote Thai-Currypaste",
+          "amount": 2,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Kokosmilch",
+          "amount": 400,
+          "unit": "ml",
+          "per": "basis"
+        },
+        {
+          "item": "rote Paprika",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Zucchini",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Schalotte",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Knoblauchzehen",
+          "amount": 2,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Öl",
+          "amount": 1,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Fischsauce",
+          "amount": 1,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "brauner Zucker",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Limette",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Thai-Basilikum oder Basilikum",
+          "amount": 1,
+          "unit": "Bund",
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Reis nach Packung kochen. Paprika und Zucchini in Streifen, Schalotte und Knoblauch fein hacken.",
+        "Öl in einer Wokpfanne erhitzen, Currypaste, Schalotte und Knoblauch 1 Minute rösten.",
+        "Kokosmilch einrühren, aufkochen. Gemüse 5 Minuten garen.",
+        "Garnelen, Fischsauce und Zucker dazu. 3–4 Minuten ziehen lassen, bis die Garnelen rosa sind.",
+        "Mit Limettensaft abschmecken, Basilikum unterheben, mit Reis servieren."
+      ],
+      "trick": null,
+      "open": [
+        "Nährwerte fehlen auf der Live-Seite."
+      ],
+      "image": "bilder/kokos-curry.jpg",
+      "imageNote": "Von der Live-Seite übernommen."
+    },
+    {
+      "id": "tomatensuppe",
+      "title": "Cremige Tomatensuppe",
+      "source": {
+        "name": "Cybergiga-Kitchen (Grok Build)",
+        "title": "Cremige Tomatensuppe",
+        "url": "https://cybergiga-kitchen.grok.me/rezept/tomatensuppe"
+      },
+      "timeMin": 40,
+      "status": "v1, ungetestet",
+      "basisPersons": 4,
+      "scale": "Basis mal Personen/4.",
+      "ingredients": [
+        {
+          "item": "Olivenöl",
+          "amount": 3,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Zwiebeln",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Knoblauchzehen",
+          "amount": 3,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "stückige Tomaten (Dose)",
+          "amount": 800,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Gemüsebrühe",
+          "amount": 400,
+          "unit": "ml",
+          "per": "basis"
+        },
+        {
+          "item": "Kokosmilch",
+          "amount": 200,
+          "unit": "ml",
+          "per": "basis"
+        },
+        {
+          "item": "Tomatenmark",
+          "amount": 1,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Zucker",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "frisches Basilikum",
+          "amount": 1,
+          "unit": "Bund",
+          "per": "basis"
+        },
+        {
+          "item": "Salz",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "nach Geschmack"
+        },
+        {
+          "item": "schwarzer Pfeffer",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "nach Geschmack"
+        },
+        {
+          "item": "Bauernbrot",
+          "amount": 4,
+          "unit": "Scheiben",
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Zwiebel und Knoblauch fein würfeln. Olivenöl in einem Topf erhitzen, beides glasig andünsten.",
+        "Tomatenmark einrühren, eine Minute rösten. Dosentomaten, Brühe, Zucker und die Hälfte der Kokosmilch dazu. 20 Minuten leise köcheln.",
+        "Suppe pürieren, restliche Kokosmilch einrühren, mit Salz und Pfeffer abschmecken.",
+        "Basilikum grob hacken, mit 1 EL Olivenöl verrühren. Brot toasten.",
+        "Suppe in Schalen füllen, Basilikumöl darüberziehen, Brot dazu reichen."
+      ],
+      "trick": null,
+      "open": [
+        "Nährwerte fehlen auf der Live-Seite."
+      ],
+      "image": "bilder/tomatensuppe.jpg",
+      "imageNote": "Von der Live-Seite übernommen."
     }
   ]
 }
