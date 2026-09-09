@@ -786,7 +786,8 @@
           "item": "Schafskäse",
           "amount": 600,
           "unit": "g",
-          "per": "basis"
+          "per": "basis",
+          "note": "Alternative: Feta"
         },
         {
           "item": "Tomaten, mittel, reif",
@@ -818,7 +819,7 @@
       ],
       "trick": "Erst backen, dann kurz grillen.",
       "open": [
-        "Welche Schafskäse-Sorte im Haus?"
+        "Schafskäse oder Feta — was lag im Haus?"
       ],
       "nutritionPerPerson": {
         "kcal": 1078,
