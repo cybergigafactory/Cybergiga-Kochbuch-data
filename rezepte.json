@@ -3007,7 +3007,7 @@
       "timeMin": 15,
       "status": "v1, ungetestet",
       "basisPersons": 2,
-      "scale": "Basis 2. Vegan / Tapas.",
+      "scale": "Basis 2. Haus: +200 g Crème fraîche und 2 Knoblauchzehen für die Creme.",
       "ingredients": [
         {
           "item": "Champignons weiß",
@@ -3022,10 +3022,11 @@
           "per": "basis"
         },
         {
-          "item": "Knoblauchzehen gehackt",
+          "item": "Knoblauchzehen gehackt (braten)",
           "amount": 2,
           "unit": "Stück",
-          "per": "basis"
+          "per": "basis",
+          "note": "Pfanne"
         },
         {
           "item": "Zitronensaft",
@@ -3044,16 +3045,31 @@
           "amount": null,
           "unit": null,
           "per": "basis"
+        },
+        {
+          "item": "Crème fraîche",
+          "amount": 200,
+          "unit": "g",
+          "per": "basis",
+          "note": "Haus-Creme"
+        },
+        {
+          "item": "Knoblauchzehen extra",
+          "amount": 2,
+          "unit": "Stück",
+          "per": "basis",
+          "note": "für die Creme"
         }
       ],
       "steps": [
         "Champignons abreiben.",
-        "Öl erhitzen, Knoblauch 30–60 Sek. bräunen.",
-        "Champignons braten bis Saft verdampft; Zitrone, Salz, Pfeffer, Petersilie."
+        "Öl erhitzen, 2 Knoblauch 30–60 Sek. bräunen.",
+        "Champignons braten bis Saft verdampft; Zitrone, Salz, Pfeffer, Petersilie.",
+        "200 g Crème fraîche mit 2 Knoblauchzehen verrühren, über die Champignons."
       ],
-      "trick": "Saft verdampfen lassen.",
+      "trick": "Saft verdampfen lassen; Creme erst zum Servieren.",
       "open": [
-        "Foto mit Creme; Rezept ohne Sahne."
+        "Haus-Variante Crème fraîche + 2 Knoblauch (Rappy 2026-09-10)."
       ],
       "nutritionPerPerson": {
         "kcal": 211,
