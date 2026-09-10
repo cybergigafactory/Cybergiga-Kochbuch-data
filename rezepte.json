@@ -3146,6 +3146,108 @@
       "nutritionPerPerson": null,
       "image": "bilder/pizzabroetchen.jpg",
       "imageNote": "Von Rappy abgelegt."
+    },
+    {
+      "id": "suesskartoffelpommes-haehnchen",
+      "title": "Süßkartoffelpommes mit gebratenen Hähnchenstreifen in Tomaten-Sahnesoße mit Limette und Kräutern",
+      "source": {
+        "name": "Chefkoch, D4rk3n3mi3",
+        "title": "Süßkartoffelpommes mit gebratenen Hähnchenstreifen in Tomaten-Sahnesoße mit Limette und Kräutern",
+        "url": "https://www.chefkoch.de/rezepte/3549971531219156/Suesskartoffelpommes-mit-gebratenen-Haehnchenstreifen-in-Tomaten-Sahnesosse-mit-Limette-und-Kraeutern.html"
+      },
+      "timeMin": 60,
+      "status": "v1, Haus-Rezept auf Chefkoch",
+      "basisPersons": null,
+      "scale": "½ Zwiebel ok. Limette ganz. Portionszahl offen.",
+      "ingredients": [
+        {
+          "item": "Hähnchenbrust oder Putenbrust",
+          "amount": 300,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Süßkartoffelpommes",
+          "amount": 500,
+          "unit": "g",
+          "per": "basis",
+          "note": "TK oder frisch"
+        },
+        {
+          "item": "passierte Tomaten",
+          "amount": 600,
+          "unit": "ml",
+          "per": "basis"
+        },
+        {
+          "item": "Sahne",
+          "amount": 100,
+          "unit": "ml",
+          "per": "basis"
+        },
+        {
+          "item": "Zwiebel",
+          "amount": 0.5,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Knoblauchzehen",
+          "amount": 3,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Limette",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Zucker",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Chilipulver",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "getrocknete Kräuter",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "z.B. Oregano, Basilikum"
+        },
+        {
+          "item": "Salz und Pfeffer",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Öl",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Hähnchen marinieren.",
+        "Süßkartoffelpommes vorbereiten und backen oder frittieren.",
+        "Hähnchen anbraten; Soße aus Zwiebel, Knoblauch, Tomaten, Sahne, Limette.",
+        "Anrichten: Pommes, Hähnchenstreifen, Soße, Limette, Kräuter."
+      ],
+      "trick": "Pommes nicht stapeln; Soße leicht säuerlich.",
+      "open": [
+        "Portionszahl; wann Hähnchen streifen."
+      ],
+      "nutritionPerPerson": null,
+      "image": "bilder/suesskartoffelpommes-haehnchen.jpg",
+      "imageNote": "Von Rappy abgelegt."
     }
   ]
 }
