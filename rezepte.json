@@ -3080,6 +3080,72 @@
       },
       "image": "bilder/knoblauch-champignons.jpg",
       "imageNote": "Von Rappy abgelegt."
+    },
+    {
+      "id": "pizzabroetchen",
+      "title": "Pizzabrötchen",
+      "source": {
+        "name": "Haus-Kochbuch",
+        "title": "Pizzabrötchen",
+        "url": null
+      },
+      "timeMin": 30,
+      "status": "v1, aus Haus-Kochbuch",
+      "basisPersons": 4,
+      "scale": "Basis 4. Hefe 5 g ganz. Belag/Käse nach Bedarf.",
+      "ingredients": [
+        {
+          "item": "Mehl",
+          "amount": 500,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "warmes Wasser",
+          "amount": 300,
+          "unit": "ml",
+          "per": "basis"
+        },
+        {
+          "item": "frische Hefe",
+          "amount": 5,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Salz",
+          "amount": 2,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Salami/Schinken/Zucchini usw.",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "nach Bedarf"
+        },
+        {
+          "item": "geriebener Käse/Feta",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "nach Bedarf"
+        }
+      ],
+      "steps": [
+        "Mehl und Salz mischen; Hefe in warmem Wasser auflösen, zum Mehl.",
+        "20 Min. kneten, mind. 2 Std. gehen lassen.",
+        "Teig in 3 Teile, längliche Quadrate ausrollen; Belag und Käse mittig, einrollen.",
+        "In ca. 5 Brötchen oder ca. 8 Snack-Rolls schneiden; 10 Min. bei 260 °C Umluft."
+      ],
+      "trick": "Lange kneten (~20 Min.); drei Bahnen für mehr Stücke.",
+      "open": [
+        "Belag-Mengen beim nächsten Koch notieren."
+      ],
+      "nutritionPerPerson": null,
+      "image": "bilder/pizzabroetchen.jpg",
+      "imageNote": "Von Rappy abgelegt."
     }
   ]
 }
