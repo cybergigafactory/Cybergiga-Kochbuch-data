@@ -2173,6 +2173,286 @@
       },
       "image": "bilder/maultaschen-pfanne.jpg",
       "imageNote": "Von Rappy abgelegt."
+    },
+    {
+      "id": "one-pot-penne-parmesan",
+      "title": "One-Pot Penne mit Parmesan",
+      "source": {
+        "name": "Chefkoch, DerAzubiInformatikKoch",
+        "title": "One Pot Penne mit Parmesan",
+        "url": "https://www.chefkoch.de/rezepte/2811401433155397/One-Pot-Penne-mit-Parmesan.html"
+      },
+      "timeMin": 25,
+      "status": "v1, ungetestet",
+      "basisPersons": null,
+      "scale": "Flexibel. Quelle ohne Portionszahl.",
+      "ingredients": [
+        {
+          "item": "Hähnchenbrustfilet",
+          "amount": 250,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Paprikaschote",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Öl",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Gemüsebrühe",
+          "amount": 250,
+          "unit": "ml",
+          "per": "basis"
+        },
+        {
+          "item": "Salz",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Knoblauchgranulat",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Penne",
+          "amount": 250,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Tomaten stückig",
+          "amount": 400,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Sahne",
+          "amount": 1,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Parmesan gerieben",
+          "amount": 30,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Pfeffer schwarz",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Basilikum frisch",
+          "amount": 1,
+          "unit": "EL",
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Hähnchen und Paprika anbraten.",
+        "Brühe, Penne, Tomaten — köcheln bis al dente.",
+        "Sahne, Parmesan, Pfeffer, Basilikum."
+      ],
+      "trick": "Nudeln in der Soße garen.",
+      "open": [
+        "Portionszahl fehlt."
+      ],
+      "nutritionPerPerson": {
+        "kcal": 842,
+        "proteinG": 52.82,
+        "fatG": 22.28,
+        "carbsG": 103.56,
+        "note": "Chefkoch, KI-Schätzung laut Quelle"
+      },
+      "image": "bilder/one-pot-penne-parmesan.jpg",
+      "imageNote": "Von Rappy abgelegt."
+    },
+    {
+      "id": "one-pot-spaghetti-pilze",
+      "title": "One-Pot Spaghetti mit Pilzen",
+      "source": {
+        "name": "Chefkoch, fantaorange",
+        "title": "One Pot Spaghetti mit Pilzen",
+        "url": "https://www.chefkoch.de/rezepte/3581611538129285/One-Pot-Spaghetti-mit-Pilzen.html"
+      },
+      "timeMin": 45,
+      "status": "v1, ungetestet",
+      "basisPersons": null,
+      "scale": "Flexibel. Vegetarisch. Halber Becher Sahne ok.",
+      "ingredients": [
+        {
+          "item": "Champignons",
+          "amount": 500,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Zwiebel",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Öl",
+          "amount": 2,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Schlagsahne",
+          "amount": 200,
+          "unit": "g",
+          "per": "basis",
+          "note": "1 Becher"
+        },
+        {
+          "item": "Tomatenmark",
+          "amount": 2,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Spaghetti",
+          "amount": 350,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Knoblauch",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "viel"
+        },
+        {
+          "item": "Gemüsebrühepulver",
+          "amount": 3,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Salz und Pfeffer",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Paprikapulver edelsüß",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "viel"
+        },
+        {
+          "item": "Wasser",
+          "amount": 900,
+          "unit": "ml",
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Champignons und Zwiebel anbraten, würzen.",
+        "Tomatenmark, Wasser, Sahne, Spaghetti, Brühepulver — 25–30 Min. oft rühren.",
+        "Abschmecken."
+      ],
+      "trick": "Oft umrühren gegen Kleben.",
+      "open": [
+        "Portionszahl ungenau; Garzeit Spaghetti prüfen."
+      ],
+      "image": "bilder/one-pot-spaghetti-pilze.jpg",
+      "imageNote": "Von Rappy abgelegt."
+    },
+    {
+      "id": "schnelle-kaesespaetzle",
+      "title": "Schnelle Käsespätzle",
+      "source": {
+        "name": "Chefkoch",
+        "title": "Schnelle Käsespätzle",
+        "url": "https://www.chefkoch.de/rezepte/1062121211526182/Schnelle-Kaesespaetzle.html"
+      },
+      "timeMin": 40,
+      "status": "v1, ungetestet",
+      "basisPersons": null,
+      "scale": "Flexibel. Halber Bund Petersilie ok.",
+      "ingredients": [
+        {
+          "item": "Zwiebel",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Petersilie",
+          "amount": 0.5,
+          "unit": "Bund",
+          "per": "basis"
+        },
+        {
+          "item": "Emmentaler oder Bergkäse",
+          "amount": 200,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Butter",
+          "amount": 1,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Sahne",
+          "amount": 400,
+          "unit": "ml",
+          "per": "basis"
+        },
+        {
+          "item": "Salz und Pfeffer",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Spätzle frisch",
+          "amount": 1000,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Fett für die Form",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Ofen 200 °C. Zwiebel glasig, Sahne, Petersilie, Hälfte Käse, Spätzle.",
+        "In Form, Restkäse, ca. 20 Min. überbacken."
+      ],
+      "trick": "Sauce vor dem Ofen eher flüssig lassen.",
+      "open": [
+        "Portionszahl fehlt."
+      ],
+      "nutritionPerPerson": {
+        "kcal": 886,
+        "proteinG": 38.76,
+        "fatG": 37.18,
+        "carbsG": 98.26,
+        "note": "Chefkoch, KI-Schätzung laut Quelle"
+      },
+      "image": "bilder/schnelle-kaesespaetzle.jpg",
+      "imageNote": "Von Rappy abgelegt."
     }
   ]
 }
