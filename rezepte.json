@@ -2995,6 +2995,75 @@
       },
       "image": "bilder/tortellini-alla-panna.jpg",
       "imageNote": "Von Rappy abgelegt."
+    },
+    {
+      "id": "knoblauch-champignons",
+      "title": "Knoblauch-Champignons",
+      "source": {
+        "name": "Chefkoch, nayru",
+        "title": "Knoblauch-Champignons",
+        "url": "https://www.chefkoch.de/rezepte/2280021363771917/Knoblauch-Champignons.html"
+      },
+      "timeMin": 15,
+      "status": "v1, ungetestet",
+      "basisPersons": 2,
+      "scale": "Basis 2. Vegan / Tapas.",
+      "ingredients": [
+        {
+          "item": "Champignons weiß",
+          "amount": 450,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Olivenöl",
+          "amount": 5,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Knoblauchzehen gehackt",
+          "amount": 2,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Zitronensaft",
+          "amount": 1,
+          "unit": "Spritzer",
+          "per": "basis"
+        },
+        {
+          "item": "Petersilie glatt gehackt",
+          "amount": 4,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Salz und Pfeffer",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Champignons abreiben.",
+        "Öl erhitzen, Knoblauch 30–60 Sek. bräunen.",
+        "Champignons braten bis Saft verdampft; Zitrone, Salz, Pfeffer, Petersilie."
+      ],
+      "trick": "Saft verdampfen lassen.",
+      "open": [
+        "Foto mit Creme; Rezept ohne Sahne."
+      ],
+      "nutritionPerPerson": {
+        "kcal": 211,
+        "proteinG": 9.7,
+        "fatG": 18.11,
+        "carbsG": 2.93,
+        "note": "Chefkoch, KI-Schätzung laut Quelle"
+      },
+      "image": "bilder/knoblauch-champignons.jpg",
+      "imageNote": "Von Rappy abgelegt."
     }
   ]
 }
