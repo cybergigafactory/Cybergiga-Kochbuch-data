@@ -2824,6 +2824,95 @@
       },
       "image": "bilder/haehnchen-ananas-curry.jpg",
       "imageNote": "Von Rappy abgelegt."
+    },
+    {
+      "id": "nachos-bbq-huehnchen",
+      "title": "Nachos mit Barbeque-Hühnchen, überbacken",
+      "source": {
+        "name": "Chefkoch, Bierkoenig2006",
+        "title": "Nachos mit Barbeque-Hühnchen, überbacken",
+        "url": "https://www.chefkoch.de/rezepte/3143161467983442/Nachos-mit-Barbeque-Huehnchen-ueberbacken.html"
+      },
+      "timeMin": 35,
+      "status": "v1, ungetestet",
+      "basisPersons": null,
+      "scale": "½ Tüte Nachos ok (Rest hält). Käsetüte ganz. Portionszahl offen.",
+      "ingredients": [
+        {
+          "item": "Nachos Käse oder Chili",
+          "amount": 0.5,
+          "unit": "Tüte",
+          "per": "basis",
+          "note": "Rest hält"
+        },
+        {
+          "item": "Barbecuesauce",
+          "amount": 0.75,
+          "unit": "Tasse",
+          "per": "basis"
+        },
+        {
+          "item": "Salz und Pfeffer",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Chilipulver",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Käse gerieben",
+          "amount": 1,
+          "unit": "Tüte",
+          "per": "basis",
+          "note": "Chester oder Emmentaler"
+        },
+        {
+          "item": "Tomaten",
+          "amount": 3,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "rote Zwiebeln",
+          "amount": 2,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Hähnchenfilet Innenfilets",
+          "amount": 350,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Öl",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Crème fraîche oder Sour Cream",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Hühnchen anbraten, würzen, mit BBQ-Sauce köcheln; Tomaten und Zwiebeln schneiden.",
+        "Schichten Nachos–Hühnchen–Käse–Tomate–Zwiebel (2×), Restkäse; 10–12 Min. 150 °C Umluft.",
+        "Crème fraîche/Sour Cream drauf."
+      ],
+      "trick": "Zweimal schichten.",
+      "open": [
+        "Tüten-/Tassengröße und Portionszahl."
+      ],
+      "nutritionPerPerson": null,
+      "image": "bilder/nachos-bbq-huehnchen.jpg",
+      "imageNote": "Von Rappy abgelegt."
     }
   ]
 }
