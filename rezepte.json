@@ -2648,6 +2648,182 @@
       },
       "image": "bilder/erdbeertiramisu.jpg",
       "imageNote": "Von Rappy abgelegt."
+    },
+    {
+      "id": "fladenbrot-tomaten-feta",
+      "title": "Fladenbrot mit Tomaten und Feta-Käse gefüllt",
+      "source": {
+        "name": "Chefkoch, Daniela1603",
+        "title": "Fladenbrot mit Tomaten und Feta-Käse gefüllt",
+        "url": "https://www.chefkoch.de/rezepte/1189251224782335/Fladenbrot-mit-Tomaten-und-Feta-Kaese-gefuellt.html"
+      },
+      "timeMin": 30,
+      "status": "v1, ungetestet",
+      "basisPersons": null,
+      "scale": "1 Fladenbrot. Feta/Tomaten als Pack-Basis; halb ok wenn Rest hält.",
+      "ingredients": [
+        {
+          "item": "Fladenbrot",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Feta-Käse",
+          "amount": 400,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Zwiebeln",
+          "amount": 2,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Tomaten",
+          "amount": 400,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Knoblauch- oder Kräuterbutter",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Thymian",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "frisch oder getrocknet"
+        }
+      ],
+      "steps": [
+        "Fladenbrot aufschneiden, mit Butter bestreichen; Tomaten, Zwiebeln, Feta vorbereiten.",
+        "Schichten: Tomate, Feta, Zwiebel, Thymian; Deckel drauf; 20 Min. 170 °C Umluft."
+      ],
+      "trick": "Deckel vorher in Stücke schneiden.",
+      "open": [
+        "Buttermenge und Portionszahl."
+      ],
+      "nutritionPerPerson": null,
+      "image": "bilder/fladenbrot-tomaten-feta.jpg",
+      "imageNote": "Von Rappy abgelegt."
+    },
+    {
+      "id": "haehnchen-ananas-curry",
+      "title": "Hähnchen-Ananas-Curry mit Reis",
+      "source": {
+        "name": "Chefkoch, Hot-as-Hell",
+        "title": "Hähnchen-Ananas-Curry mit Reis",
+        "url": "https://www.chefkoch.de/rezepte/1069361212490339/Haehnchen-Ananas-Curry-mit-Reis.html"
+      },
+      "timeMin": 35,
+      "status": "v1, ungetestet",
+      "basisPersons": 2,
+      "scale": "Basis 2. Ananasdose ganz (Saft behalten). Reisbeutel 2×125 g.",
+      "ingredients": [
+        {
+          "item": "Hähnchenbrustfilet oder Putenbrust",
+          "amount": 250,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Ananasstücke Dose",
+          "amount": 1,
+          "unit": "Dose",
+          "per": "basis",
+          "note": "560 g / Abtropf 340 g, Saft auffangen"
+        },
+        {
+          "item": "Sahne",
+          "amount": 100,
+          "unit": "ml",
+          "per": "basis"
+        },
+        {
+          "item": "Sahneschmelzkäse",
+          "amount": 100,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Frühlingszwiebeln",
+          "amount": 2,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Knoblauchzehen",
+          "amount": 2,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Honig",
+          "amount": 1,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Currypulver",
+          "amount": 3,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Brühepulver",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Reis",
+          "amount": 2,
+          "unit": "Beutel",
+          "per": "basis",
+          "note": "à 125 g"
+        },
+        {
+          "item": "Öl",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Salz und Pfeffer",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Chilipulver",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Reis nach Packung.",
+        "Fleisch anbraten, Honig, Zwiebel, Knoblauch, Ananas, Curry rösten.",
+        "Sahne und Schmelzkäse, abschmecken (inkl. Ananassaft), auf Reis."
+      ],
+      "trick": "Ananassaft zum Abschmecken; optional Kokosmilch statt Sahne.",
+      "open": [
+        "Öl- und Chilimenge."
+      ],
+      "nutritionPerPerson": {
+        "kcal": 1023,
+        "proteinG": 49.52,
+        "fatG": 22.89,
+        "carbsG": 149.32,
+        "note": "Chefkoch, KI-Schätzung laut Quelle"
+      },
+      "image": "bilder/haehnchen-ananas-curry.jpg",
+      "imageNote": "Von Rappy abgelegt."
     }
   ]
 }
