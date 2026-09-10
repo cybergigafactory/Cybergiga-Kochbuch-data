@@ -3632,6 +3632,165 @@
       "nutritionPerPerson": null,
       "image": "bilder/tomatensuppe-wildreis-erbsen.jpg",
       "imageNote": "Von Rappy abgelegt."
+    },
+    {
+      "id": "miso-ramen",
+      "title": "Japanische Miso Ramen",
+      "source": {
+        "name": "Haus-Kochbuch",
+        "title": "Japanische Miso Ramen",
+        "url": null
+      },
+      "timeMin": 30,
+      "status": "v1, aus Haus-Kochbuch",
+      "basisPersons": null,
+      "scale": "3 Eier ganz. ½-EL-Soßen ok. Nudeln/Mais/Keimlinge nach Bedarf.",
+      "ingredients": [
+        {
+          "item": "Eier",
+          "amount": 3,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Schweinefleisch",
+          "amount": 200,
+          "unit": "g",
+          "per": "basis",
+          "note": "Bauchscheiben + Hack"
+        },
+        {
+          "item": "Frühlingszwiebeln",
+          "amount": 2,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Chili-Paste",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "nach Geschmack"
+        },
+        {
+          "item": "Miso-Paste",
+          "amount": 1,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Hühnerbrühe",
+          "amount": 1,
+          "unit": "L",
+          "per": "basis"
+        },
+        {
+          "item": "Mungobohnenkeimlinge",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Nori-Algen",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Mais Dose mit Saft",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Sojasoße",
+          "amount": 1,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "dunkle Sojasoße",
+          "amount": 0.5,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Mirin",
+          "amount": 1,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Austernsoße",
+          "amount": 0.5,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Honig",
+          "amount": 0.5,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "brauner Zucker",
+          "amount": 0.5,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "MSG",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis",
+          "note": "optional"
+        },
+        {
+          "item": "Salz und Pfeffer",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Ingwer gerieben",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "Daumenstück"
+        },
+        {
+          "item": "Knoblauch gerieben",
+          "amount": null,
+          "unit": "Zehen",
+          "per": "basis",
+          "note": "2–3"
+        },
+        {
+          "item": "Butter",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "für Mais"
+        },
+        {
+          "item": "Ramen-Nudeln",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Eier 7 Min., abschrecken, dunkle Sojasoße; Marinade anmischen, Fleisch marinieren.",
+        "Bauch und Hack anbraten; Brühe mit Chili/Miso, Hack und Frühlingszwiebel weiß.",
+        "Mais mit Butter; Nudeln; anrichten mit Ei, Keimlingen, Mais, Nori, Grün."
+      ],
+      "trick": "Eier mit dunkler Sojasoße bestreichen; Bauch und Hack getrennt.",
+      "open": [
+        "Nudel-/Topping-Mengen; Portionszahl."
+      ],
+      "nutritionPerPerson": null,
+      "image": "bilder/miso-ramen.jpg",
+      "imageNote": "Von Rappy abgelegt."
     }
   ]
 }
