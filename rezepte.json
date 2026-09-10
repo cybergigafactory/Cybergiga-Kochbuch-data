@@ -2005,6 +2005,174 @@
       },
       "image": "bilder/idiotensichere-lasagne.jpg",
       "imageNote": "Von Rappy abgelegt."
+    },
+    {
+      "id": "kokosmilch-curry",
+      "title": "Kokosmilch-Curry",
+      "source": {
+        "name": "Chefkoch, Pumelchen",
+        "title": "Kokosmilch-Curry",
+        "url": "https://www.chefkoch.de/rezepte/1077431213446716/Kokosmilch-Curry.html"
+      },
+      "timeMin": 15,
+      "status": "v1, ungetestet",
+      "basisPersons": null,
+      "scale": "Flexibel. Halbe Dose Ananas ok, Rest kühl. Kein halbes Ei.",
+      "ingredients": [
+        {
+          "item": "Hähnchenbrust",
+          "amount": 400,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Pizzatomaten",
+          "amount": 1,
+          "unit": "Dose",
+          "per": "basis"
+        },
+        {
+          "item": "Zwiebel, groß",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Kokosmilch",
+          "amount": 1,
+          "unit": "Dose",
+          "per": "basis"
+        },
+        {
+          "item": "Ananas in Stücken",
+          "amount": 0.5,
+          "unit": "Dose",
+          "per": "basis",
+          "note": "Rest kühl"
+        },
+        {
+          "item": "Currypulver",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "viel"
+        },
+        {
+          "item": "Salz und Pfeffer",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Piri-Piri oder Chili",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Öl",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Zwiebel scharf anbraten, Curry und Tomaten, Kokosmilch, Chili, würzen.",
+        "Ananas dazu, Fleisch einlegen, gar ziehen. Dazu Reis."
+      ],
+      "trick": "Ananas gegen die Schärfe.",
+      "open": [
+        "Portionszahl und Dosengrößen fehlen."
+      ],
+      "image": "bilder/kokosmilch-curry.jpg",
+      "imageNote": "Von Rappy abgelegt."
+    },
+    {
+      "id": "maultaschen-pfanne",
+      "title": "Maultaschen-Pfanne",
+      "source": {
+        "name": "Chefkoch",
+        "title": "Maultaschen-Pfanne",
+        "url": "https://www.chefkoch.de/rezepte/1796041290165153/Maultaschen-Pfanne.html"
+      },
+      "timeMin": 20,
+      "status": "v1, ungetestet",
+      "basisPersons": null,
+      "scale": "Nach Maultaschen-Menge skalieren. Speck und Zwiebel mitdenken.",
+      "ingredients": [
+        {
+          "item": "Maultaschen",
+          "amount": 600,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Gemüsebrühe",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Zwiebel, groß",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Speck",
+          "amount": 100,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Sahne",
+          "amount": null,
+          "unit": "Schuss",
+          "per": "basis"
+        },
+        {
+          "item": "Salz",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Pfeffer",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Petersilie gehackt",
+          "amount": 1,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Öl",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Maultaschen in Brühe garen.",
+        "Speck auslassen, Zwiebel glasig.",
+        "Maultaschen-Scheiben mitbraten, Sahne ablöschen, einkochen. Würzen. Dazu Brot und Salat."
+      ],
+      "trick": "Sahne umhüllt, schwimmt nicht.",
+      "open": [
+        "Portionszahl und Sahne-Menge ungenau."
+      ],
+      "nutritionPerPerson": {
+        "kcal": 880,
+        "proteinG": 20.89,
+        "fatG": 64.71,
+        "carbsG": 55.21,
+        "note": "Chefkoch, KI-Schätzung laut Quelle"
+      },
+      "image": "bilder/maultaschen-pfanne.jpg",
+      "imageNote": "Von Rappy abgelegt."
     }
   ]
 }
