@@ -2453,6 +2453,112 @@
       },
       "image": "bilder/schnelle-kaesespaetzle.jpg",
       "imageNote": "Von Rappy abgelegt."
+    },
+    {
+      "id": "ungarische-langos",
+      "title": "Ungarische Langos mit Knoblauchcreme und Käse",
+      "source": {
+        "name": "Chefkoch, Achnit",
+        "title": "Ungarische Langos mit Knoblauchcreme und Käse",
+        "url": "https://www.chefkoch.de/rezepte/1726761281857676/Ungarische-Langos-mit-Knoblauchcreme-und-Kaese.html"
+      },
+      "timeMin": 40,
+      "status": "v1, ungetestet",
+      "basisPersons": null,
+      "scale": "Flexibel. Hefewürfel ganz, nie halb. Kommentare ~7–8 Fladen.",
+      "ingredients": [
+        {
+          "item": "saure Sahne",
+          "amount": 200,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Schmand",
+          "amount": 200,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Knoblauchzehen",
+          "amount": 3,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Salz und Pfeffer",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Wasser lauwarm",
+          "amount": 250,
+          "unit": "ml",
+          "per": "basis"
+        },
+        {
+          "item": "Milch lauwarm",
+          "amount": 100,
+          "unit": "ml",
+          "per": "basis"
+        },
+        {
+          "item": "Hefe",
+          "amount": 1,
+          "unit": "Würfel",
+          "per": "basis"
+        },
+        {
+          "item": "Zucker",
+          "amount": 2,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Weizenmehl",
+          "amount": 500,
+          "unit": "g",
+          "per": "basis",
+          "note": "bei Bedarf mehr"
+        },
+        {
+          "item": "Salz",
+          "amount": 2,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Öl zum Frittieren",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Käse gerieben",
+          "amount": 200,
+          "unit": "g",
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Creme anrühren, mind. 1 Std. ziehen.",
+        "Hefeteig kneten, 30–60 Min. gehen.",
+        "Fladen frittieren, Creme und Käse, heiß servieren."
+      ],
+      "trick": "Hände ölen beim Formen.",
+      "open": [
+        "Portions-/Fladenanzahl variabel."
+      ],
+      "nutritionPerPerson": {
+        "kcal": 737,
+        "proteinG": 24.44,
+        "fatG": 34.94,
+        "carbsG": 79.21,
+        "note": "Chefkoch, KI-Schätzung laut Quelle"
+      },
+      "image": "bilder/ungarische-langos.jpg",
+      "imageNote": "Von Rappy abgelegt."
     }
   ]
 }
