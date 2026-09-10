@@ -3248,6 +3248,108 @@
       "nutritionPerPerson": null,
       "image": "bilder/suesskartoffelpommes-haehnchen.jpg",
       "imageNote": "Von Rappy abgelegt."
+    },
+    {
+      "id": "lachs-nudeln",
+      "title": "Lachs-Nudeln",
+      "source": {
+        "name": "Haus-Kochbuch",
+        "title": "Lachs-Nudeln",
+        "url": null
+      },
+      "timeMin": 25,
+      "status": "v1, aus Haus-Kochbuch",
+      "basisPersons": 4,
+      "scale": "Basis 4. Zitronensaft 1–2 EL. Weißwein oder Brühe 150 ml.",
+      "ingredients": [
+        {
+          "item": "Nudeln",
+          "amount": 500,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Lachsfilet frisch",
+          "amount": 400,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Sahne",
+          "amount": 250,
+          "unit": "ml",
+          "per": "basis"
+        },
+        {
+          "item": "Knoblauchzehen",
+          "amount": 2,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Zwiebel",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Weißwein oder Gemüsebrühe",
+          "amount": 150,
+          "unit": "ml",
+          "per": "basis"
+        },
+        {
+          "item": "Dill",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "frisch oder getrocknet, nach Bedarf"
+        },
+        {
+          "item": "Salz und Pfeffer",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Muskat",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Öl",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Zitronensaft",
+          "amount": null,
+          "unit": "EL",
+          "per": "basis",
+          "note": "1–2 EL"
+        },
+        {
+          "item": "Milch",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "optional bei zu wenig Flüssigkeit"
+        }
+      ],
+      "steps": [
+        "Zwiebel, Knoblauch, Lachs vorbereiten (würfeln).",
+        "Zwiebel glasig, Lachs scharf anbraten, Knoblauch 2 Min.",
+        "Nudeln parallel kochen; mit Wein/Brühe und Sahne ablöschen, würzen, 5 Min. sämig köcheln."
+      ],
+      "trick": "Knoblauch kurz nach dem Lachs — nicht bitter werden lassen.",
+      "open": [
+        "Dill-/Würzmenge beim nächsten Koch notieren."
+      ],
+      "nutritionPerPerson": null,
+      "image": "bilder/lachs-nudeln.jpg",
+      "imageNote": "Von Rappy abgelegt."
     }
   ]
 }
