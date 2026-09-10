@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-09-09",
+  "updated": "2026-09-10",
   "rules": [
     "Personen flexibel. basisPersons ist die Quellenmenge, nicht die einzige Portion.",
     "Nie ein halbes Ei. Dose und Becher dürfen halb, Rest kühl.",
@@ -1786,6 +1786,225 @@
       ],
       "image": "bilder/tomatensuppe.jpg",
       "imageNote": "Von der Live-Seite übernommen."
+    },
+    {
+      "id": "gulaschsuppe-roemertopf",
+      "title": "Gulaschsuppe aus dem Römertopf",
+      "source": {
+        "name": "Chefkoch",
+        "title": "Gulaschsuppe aus dem Römertopf",
+        "url": "https://www.chefkoch.de/rezepte/1327291237545284/Gulaschsuppe-aus-dem-Roemertopf.html"
+      },
+      "timeMin": 140,
+      "status": "v1, ungetestet",
+      "basisPersons": null,
+      "scale": "Personen flexibel; Quelle ohne Portionszahl. Kein halbes Ei hier.",
+      "ingredients": [
+        {
+          "item": "Gulasch vom Rind",
+          "amount": 500,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Kartoffeln roh, gewürfelt",
+          "amount": 350,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Paprikaschote rot",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Zwiebel",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Knoblauchzehe",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Paprikapulver rosenscharf",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Kümmel ganz",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Majoran getrocknet",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Tomatenmark",
+          "amount": 3,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Fleisch- oder Gemüsebrühe",
+          "amount": 1.2,
+          "unit": "Liter",
+          "per": "basis"
+        },
+        {
+          "item": "Zitronenschale",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Öl",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Salz",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Chili",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Römertopf wässern.",
+        "Zwiebel und Knoblauch goldgelb, Tomatenmark und Rosenpaprika andünsten, Fleisch anbraten, etwas Brühe, abkühlen.",
+        "Alles in den Römertopf, Rest Brühe, Decken. Kalter Ofen, 190 °C ca. 120 Min.",
+        "Brühe nach Geschmack. Mit Brot als Hauptmahlzeit."
+      ],
+      "trick": "Kalter Ofen mit Römertopf.",
+      "open": [
+        "Portionszahl fehlt in der Quelle."
+      ],
+      "nutritionPerPerson": {
+        "kcal": 384,
+        "proteinG": 19.01,
+        "fatG": 24.25,
+        "carbsG": 22.03,
+        "note": "Chefkoch, KI-Schätzung laut Quelle"
+      },
+      "image": "bilder/gulaschsuppe-roemertopf.jpg",
+      "imageNote": "Von Rappy abgelegt."
+    },
+    {
+      "id": "idiotensichere-lasagne",
+      "title": "Idiotensichere Lasagne",
+      "source": {
+        "name": "Chefkoch, alina1st",
+        "title": "Idiotensichere Lasagne",
+        "url": "https://www.chefkoch.de/rezepte/484751142525322/Idiotensichere-Lasagne.html"
+      },
+      "timeMin": 80,
+      "status": "v1, ungetestet",
+      "basisPersons": null,
+      "scale": "Personen flexibel; Quelle ohne Portionszahl. Ohne Béchamel.",
+      "ingredients": [
+        {
+          "item": "Hackfleisch",
+          "amount": 500,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Zwiebel",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Knoblauchzehen",
+          "amount": 2,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Geschälte Tomaten (Dose)",
+          "amount": 800,
+          "unit": "g",
+          "per": "basis",
+          "note": "1 Dose"
+        },
+        {
+          "item": "Salz und Pfeffer",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Oregano",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Käse gerieben",
+          "amount": 200,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Crème fraîche",
+          "amount": 1,
+          "unit": "Becher",
+          "per": "basis"
+        },
+        {
+          "item": "Wasser",
+          "amount": 125,
+          "unit": "ml",
+          "per": "basis"
+        },
+        {
+          "item": "Parmesan frisch gerieben",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "optional"
+        },
+        {
+          "item": "Lasagneplatten",
+          "amount": 250,
+          "unit": "g",
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Hack mit Zwiebel und Knoblauch anbraten. Tomaten stückig dazu, würzen.",
+        "Schichten: Sauce, Platten, Sauce, Käse — wiederholen. Oben Crème fraîche und Käse, optional Parmesan.",
+        "Mit Wasser übergießen. 200 °C, 30–45 Min."
+      ],
+      "trick": "Wasser obenauf statt Béchamel.",
+      "open": [
+        "Portionszahl fehlt in der Quelle."
+      ],
+      "nutritionPerPerson": {
+        "kcal": 919,
+        "proteinG": 46.08,
+        "fatG": 60.51,
+        "carbsG": 47.7,
+        "note": "Chefkoch, KI-Schätzung laut Quelle"
+      },
+      "image": "bilder/idiotensichere-lasagne.jpg",
+      "imageNote": "Von Rappy abgelegt."
     }
   ]
 }
