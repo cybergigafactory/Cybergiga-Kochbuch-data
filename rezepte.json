@@ -3450,6 +3450,88 @@
       "nutritionPerPerson": null,
       "image": "bilder/sloppy-joe-mac-n-cheese.jpg",
       "imageNote": "Von Rappy abgelegt."
+    },
+    {
+      "id": "champignoncremesuppe",
+      "title": "Champignoncremesuppe",
+      "source": {
+        "name": "Haus-Kochbuch",
+        "title": "Champignoncremesuppe",
+        "url": null
+      },
+      "timeMin": 20,
+      "status": "v1, aus Haus-Kochbuch",
+      "basisPersons": 2,
+      "scale": "Basis 2. ¼ Bund Petersilie ok.",
+      "ingredients": [
+        {
+          "item": "Butter",
+          "amount": 40,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Mehl",
+          "amount": 40,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Wasser",
+          "amount": 500,
+          "unit": "ml",
+          "per": "basis"
+        },
+        {
+          "item": "Milch",
+          "amount": 250,
+          "unit": "ml",
+          "per": "basis"
+        },
+        {
+          "item": "Sahne",
+          "amount": 100,
+          "unit": "ml",
+          "per": "basis"
+        },
+        {
+          "item": "Champignons braun",
+          "amount": 250,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Petersilie gehackt",
+          "amount": 0.25,
+          "unit": "Bund",
+          "per": "basis"
+        },
+        {
+          "item": "Zitronensaft",
+          "amount": 1,
+          "unit": "EL",
+          "per": "basis",
+          "note": "ca."
+        },
+        {
+          "item": "Salz und Pfeffer",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Pilze scheiben, Petersilie hacken.",
+        "Mehlschwitze, mit Wasser ablöschen, Milch und Sahne köcheln.",
+        "Champignons 5 Min.; Handvoll Scheiben zurückhalten; würzen, pürieren, Scheiben und Petersilie."
+      ],
+      "trick": "Scheiben vor dem Pürieren zurückhalten.",
+      "open": [
+        "Fein- vs. grob pürieren."
+      ],
+      "nutritionPerPerson": null,
+      "image": "bilder/champignoncremesuppe.jpg",
+      "imageNote": "Von Rappy abgelegt."
     }
   ]
 }
