@@ -2913,6 +2913,88 @@
       "nutritionPerPerson": null,
       "image": "bilder/nachos-bbq-huehnchen.jpg",
       "imageNote": "Von Rappy abgelegt."
+    },
+    {
+      "id": "tortellini-alla-panna",
+      "title": "Tortellini alla panna",
+      "source": {
+        "name": "Chefkoch, lacarrona",
+        "title": "Tortellini alla panna",
+        "url": "https://www.chefkoch.de/rezepte/1342861239100533/Tortellini-alla-panna.html"
+      },
+      "timeMin": 30,
+      "status": "v1, ungetestet",
+      "basisPersons": null,
+      "scale": "500 g Tortellini-Pack als Basis. 2 Eigelb ganz, nie halb.",
+      "ingredients": [
+        {
+          "item": "Tortellini Kühltheke",
+          "amount": 500,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Kochschinken gewürfelt",
+          "amount": 200,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Butter",
+          "amount": 1,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Sahne",
+          "amount": 600,
+          "unit": "ml",
+          "per": "basis"
+        },
+        {
+          "item": "Eigelb Kl. M",
+          "amount": 2,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Parmesan frisch gerieben",
+          "amount": 4,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Muskat",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis",
+          "note": "gestrichen"
+        },
+        {
+          "item": "Salz",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Tortellini nach Packung kochen.",
+        "Schinken in Butter anbraten, 400 ml Sahne, Tortellini dazu.",
+        "Eigelb-Parmesan-Mix mit Rest-Sahne einrühren, bis dick; sofort servieren."
+      ],
+      "trick": "Eigelb zügig einrühren, nicht sprudelnd kochen.",
+      "open": [
+        "Portionszahl nicht ausgewiesen."
+      ],
+      "nutritionPerPerson": {
+        "kcal": 995,
+        "proteinG": 30.04,
+        "fatG": 29.57,
+        "carbsG": 45.02,
+        "note": "Chefkoch, KI-Schätzung laut Quelle"
+      },
+      "image": "bilder/tortellini-alla-panna.jpg",
+      "imageNote": "Von Rappy abgelegt."
     }
   ]
 }
