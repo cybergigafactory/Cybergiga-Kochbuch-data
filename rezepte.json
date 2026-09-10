@@ -3350,6 +3350,106 @@
       "nutritionPerPerson": null,
       "image": "bilder/lachs-nudeln.jpg",
       "imageNote": "Von Rappy abgelegt."
+    },
+    {
+      "id": "sloppy-joe-mac-n-cheese",
+      "title": "Sloppy Joe Mac 'n Cheese",
+      "source": {
+        "name": "Haus-Kochbuch",
+        "title": "Sloppy Joe Mac 'n Cheese",
+        "url": null
+      },
+      "timeMin": 25,
+      "status": "v1, aus Haus-Kochbuch",
+      "basisPersons": 3,
+      "scale": "Basis 3. ½ Bund Petersilie ok. Tomatendose ca. 300–400 g.",
+      "ingredients": [
+        {
+          "item": "Nudeln",
+          "amount": 300,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Hackfleisch",
+          "amount": 400,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Zwiebel",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Knoblauchzehen",
+          "amount": 2,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Petersilie",
+          "amount": 0.5,
+          "unit": "Bund",
+          "per": "basis"
+        },
+        {
+          "item": "passierte Tomaten",
+          "amount": null,
+          "unit": "g",
+          "per": "basis",
+          "note": "Dose ca. 300–400 g"
+        },
+        {
+          "item": "Rohrzucker",
+          "amount": 2,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Salz und Pfeffer",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Chilipulver",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Worcestershire Sauce",
+          "amount": 2,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "geriebener Mozzarella",
+          "amount": 200,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Öl",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Zwiebel und Knoblauch vorbereiten.",
+        "Zwiebel glasig, Hack scharf, Knoblauch 2 Min.; Chili und Zucker; Tomaten + Worcestershire, 5 Min.",
+        "Nudeln parallel; Hälfte Mozzarella unterheben, Rest schmelzen lassen; Petersilie."
+      ],
+      "trick": "Knoblauch kurz; Käse oben ohne umrühren schmelzen.",
+      "open": [
+        "Tomatendose 300–400 g; Foto-Variante Käse/Garnitur."
+      ],
+      "nutritionPerPerson": null,
+      "image": "bilder/sloppy-joe-mac-n-cheese.jpg",
+      "imageNote": "Von Rappy abgelegt."
     }
   ]
 }
