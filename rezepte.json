@@ -2559,6 +2559,95 @@
       },
       "image": "bilder/ungarische-langos.jpg",
       "imageNote": "Von Rappy abgelegt."
+    },
+    {
+      "id": "erdbeertiramisu",
+      "title": "Erdbeertiramisu",
+      "source": {
+        "name": "Chefkoch, anvele",
+        "title": "Erdbeertiramisu",
+        "url": "https://www.chefkoch.de/rezepte/522711148577087/Erdbeertiramisu.html"
+      },
+      "timeMin": 30,
+      "status": "v1, ungetestet",
+      "basisPersons": 6,
+      "scale": "Basis 6. Vanillezucker 1 Päckchen ganz.",
+      "ingredients": [
+        {
+          "item": "Erdbeeren",
+          "amount": 500,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Zucker",
+          "amount": 3,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Mascarpone",
+          "amount": 250,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Magerquark",
+          "amount": 250,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Zitronensaft",
+          "amount": 1,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Vanillezucker",
+          "amount": 1,
+          "unit": "Pck.",
+          "per": "basis"
+        },
+        {
+          "item": "Löffelbiskuits",
+          "amount": 100,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Orangensaft",
+          "amount": 6,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Minze oder Zitronenmelisse",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "optional garnieren"
+        }
+      ],
+      "steps": [
+        "100 g Erdbeeren mit 1 EL Zucker pürieren.",
+        "Creme aus Mascarpone, Quark, Zucker, Zitrone, Vanille; 300 g Erdbeeren unterheben.",
+        "Löffelbiskuits mit wenig Orangensaft, Mark und Creme schichten; mind. 3 Std. kalt stellen.",
+        "Mit restlichen Erdbeeren und evtl. Minze garnieren."
+      ],
+      "trick": "Biskuits nur leicht beträufeln; mind. 3 Std. ziehen.",
+      "open": [
+        "Orangensaft-Menge nach Geschmack."
+      ],
+      "nutritionPerPerson": {
+        "kcal": 337,
+        "proteinG": 9,
+        "fatG": 18.5,
+        "carbsG": 31.6,
+        "note": "Chefkoch, KI-Schätzung laut Quelle"
+      },
+      "image": "bilder/erdbeertiramisu.jpg",
+      "imageNote": "Von Rappy abgelegt."
     }
   ]
 }
