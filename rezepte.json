@@ -3532,6 +3532,106 @@
       "nutritionPerPerson": null,
       "image": "bilder/champignoncremesuppe.jpg",
       "imageNote": "Von Rappy abgelegt."
+    },
+    {
+      "id": "tomatensuppe-wildreis-erbsen",
+      "title": "Tomatensuppe mit Wildreis und Erbsen",
+      "source": {
+        "name": "Haus-Kochbuch",
+        "title": "Tomatensuppe mit Wildreis und Erbsen",
+        "url": null
+      },
+      "timeMin": 25,
+      "status": "v1, aus Haus-Kochbuch",
+      "basisPersons": 4,
+      "scale": "Basis 4. Wildreis 50 g oder mehr Erbsen. Wasser extra 500 ml nach Bedarf.",
+      "ingredients": [
+        {
+          "item": "Toast/Croutons",
+          "amount": 3,
+          "unit": "Scheiben",
+          "per": "basis"
+        },
+        {
+          "item": "Knoblauchzehen",
+          "amount": 2,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "rote Zwiebel",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Tomaten",
+          "amount": 400,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Tomatenmark",
+          "amount": 40,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Gemüsebrühe",
+          "amount": 1,
+          "unit": "L",
+          "per": "basis"
+        },
+        {
+          "item": "Wasser extra",
+          "amount": 500,
+          "unit": "ml",
+          "per": "basis"
+        },
+        {
+          "item": "Wildreis",
+          "amount": 50,
+          "unit": "g",
+          "per": "basis",
+          "note": "alternativ mehr Erbsen"
+        },
+        {
+          "item": "Salz, Pfeffer, Zucker",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Paprikapulver",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Olivenöl",
+          "amount": 2,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Erbsen TK",
+          "amount": 150,
+          "unit": "g",
+          "per": "basis"
+        }
+      ],
+      "steps": [
+        "Knoblauch, Zwiebel, Tomaten vorbereiten.",
+        "Anschwitzen, Reis und Tomatenmark rösten; Tomaten, Brühe, ca. 10 Min.+ bis Reis gar.",
+        "Croutons ohne Öl rösten (Abzug an); Erbsen und Würzung; mit Croutons servieren."
+      ],
+      "trick": "Reis mit Mark rösten; Croutons ohne Öl, Abzug an.",
+      "open": [
+        "Separat von tomatensuppe-Karte."
+      ],
+      "nutritionPerPerson": null,
+      "image": "bilder/tomatensuppe-wildreis-erbsen.jpg",
+      "imageNote": "Von Rappy abgelegt."
     }
   ]
 }
