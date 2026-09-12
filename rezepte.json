@@ -3462,7 +3462,7 @@
       "timeMin": 20,
       "status": "v1, aus Haus-Kochbuch",
       "basisPersons": 2,
-      "scale": "Basis 2. Kartoffeln alternativ: 1 Stück pro Portion (statt Mehl+Butter).",
+      "scale": "Basis 2. Kartoffeln alternativ: 1 kl. Stück pro Portion (4 Portionen → 4 kl.).",
       "ingredients": [
         {
           "item": "Butter",
@@ -3479,9 +3479,9 @@
         {
           "item": "Kartoffeln (alternativ zu Mehl und Butter)",
           "amount": 1,
-          "unit": "Stück",
-          "per": "person",
-          "note": "alternativ zu Mehl und Butter"
+          "unit": "kl. Stück",
+          "per": "portion",
+          "note": "1 kleine pro Portion"
         },
         {
           "item": "Wasser",
@@ -3532,7 +3532,7 @@
         "Mit Wasser ablöschen, Milch und Sahne köcheln.",
         "Champignons (und Kartoffeln) kochen. Handvoll Champignons zurückbehalten für später. Würzen und pürieren. Champignon-Scheiben und Petersilie hinzufügen und erwärmen."
       ],
-      "trick": "Champignon-Scheiben zurückhalten; Mehlschwitze oder 1 Kartoffel/Portion mitpürieren.",
+      "trick": "Champignon-Scheiben zurückhalten; Mehlschwitze oder 1 kl. Kartoffel/Portion.",
       "open": [
         "Fein- vs. grob pürieren."
       ],
