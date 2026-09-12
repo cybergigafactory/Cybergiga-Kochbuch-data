@@ -3462,28 +3462,28 @@
       "timeMin": 20,
       "status": "v1, aus Haus-Kochbuch",
       "basisPersons": 2,
-      "scale": "Basis 2. ¼ Bund Petersilie ok. 2–3 Kartoffeln mitpürieren (Notiz an Butter/Mehl).",
+      "scale": "Basis 2. 3 Kartoffeln Stück. ¼ Bund Petersilie ok.",
       "ingredients": [
         {
           "item": "Butter",
           "amount": 40,
           "unit": "g",
           "per": "basis",
-          "note": "2–3 Kartoffeln klein schneiden und mit pürieren"
+          "note": "3 Kartoffeln klein schneiden und mit pürieren"
         },
         {
           "item": "Mehl",
           "amount": 40,
           "unit": "g",
           "per": "basis",
-          "note": "2–3 Kartoffeln klein schneiden und mit pürieren"
+          "note": "3 Kartoffeln klein schneiden und mit pürieren"
         },
         {
           "item": "Kartoffeln",
-          "amount": null,
+          "amount": 3,
           "unit": "Stück",
           "per": "basis",
-          "note": "2–3, klein schneiden und mitpürieren"
+          "note": "klein schneiden und mitpürieren"
         },
         {
           "item": "Wasser",
@@ -3530,11 +3530,11 @@
         }
       ],
       "steps": [
-        "Pilze scheiben, Petersilie hacken, 2–3 Kartoffeln klein schneiden.",
-        "Mehlschwitze, mit Wasser ablöschen, Milch und Sahne köcheln.",
-        "Champignons und Kartoffeln kochen; Handvoll Champignons zurückhalten; würzen, mitpürieren, Scheiben und Petersilie."
+        "Pilze schneiden, Petersilie hacken, Mehl mit Butter zu Mehlschwitze machen (alternativ Kartoffeln).",
+        "Mit Wasser ablöschen, Milch und Sahne köcheln.",
+        "Champignons (und Kartoffeln) kochen. Handvoll Champignons zurückbehalten für später. Würzen und pürieren. Champignon-Scheiben und Petersilie hinzufügen und erwärmen."
       ],
-      "trick": "Champignon-Scheiben vor dem Pürieren zurückhalten; Kartoffeln mitpürieren.",
+      "trick": "Champignon-Scheiben vor dem Pürieren zurückhalten; Kartoffeln alternativ zur Mehlschwitze.",
       "open": [
         "Fein- vs. grob pürieren."
       ],
