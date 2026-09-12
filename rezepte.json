@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-09-10",
+  "updated": "2026-09-12",
   "rules": [
     "Personen flexibel. basisPersons ist die Quellenmenge, nicht die einzige Portion.",
     "Nie ein halbes Ei. Dose und Becher dürfen halb, Rest kühl.",
@@ -3462,19 +3462,28 @@
       "timeMin": 20,
       "status": "v1, aus Haus-Kochbuch",
       "basisPersons": 2,
-      "scale": "Basis 2. ¼ Bund Petersilie ok.",
+      "scale": "Basis 2. ¼ Bund Petersilie ok. 2–3 Kartoffeln mitpürieren (Notiz an Butter/Mehl).",
       "ingredients": [
         {
           "item": "Butter",
           "amount": 40,
           "unit": "g",
-          "per": "basis"
+          "per": "basis",
+          "note": "2–3 Kartoffeln klein schneiden und mit pürieren"
         },
         {
           "item": "Mehl",
           "amount": 40,
           "unit": "g",
-          "per": "basis"
+          "per": "basis",
+          "note": "2–3 Kartoffeln klein schneiden und mit pürieren"
+        },
+        {
+          "item": "Kartoffeln",
+          "amount": null,
+          "unit": "Stück",
+          "per": "basis",
+          "note": "2–3, klein schneiden und mitpürieren"
         },
         {
           "item": "Wasser",
@@ -3521,11 +3530,11 @@
         }
       ],
       "steps": [
-        "Pilze scheiben, Petersilie hacken.",
+        "Pilze scheiben, Petersilie hacken, 2–3 Kartoffeln klein schneiden.",
         "Mehlschwitze, mit Wasser ablöschen, Milch und Sahne köcheln.",
-        "Champignons 5 Min.; Handvoll Scheiben zurückhalten; würzen, pürieren, Scheiben und Petersilie."
+        "Champignons und Kartoffeln kochen; Handvoll Champignons zurückhalten; würzen, mitpürieren, Scheiben und Petersilie."
       ],
-      "trick": "Scheiben vor dem Pürieren zurückhalten.",
+      "trick": "Champignon-Scheiben vor dem Pürieren zurückhalten; Kartoffeln mitpürieren.",
       "open": [
         "Fein- vs. grob pürieren."
       ],
