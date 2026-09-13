@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-09-12",
+  "updated": "2026-09-13",
   "rules": [
     "Personen flexibel. basisPersons ist die Quellenmenge, nicht die einzige Portion.",
     "Nie ein halbes Ei. Dose und Becher dürfen halb, Rest kühl.",
@@ -3798,6 +3798,109 @@
       "nutritionPerPerson": null,
       "image": "bilder/miso-ramen.jpg",
       "imageNote": "Von Rappy abgelegt."
+    },
+    {
+      "id": "chinesischer-kohl-ei",
+      "title": "Chinesischer Kohl mit Ei (Pfanne)",
+      "source": {
+        "name": "Webspoon World",
+        "title": "The Chinese Do Something Genius With Cabbage and Eggs",
+        "url": "https://youtu.be/l3XsX_g4zlY"
+      },
+      "timeMin": 30,
+      "status": "v1, ungetestet",
+      "basisPersons": 3,
+      "scale": "Basis 3. 3 Eier ganz. ½ Zwiebel und ½ Möhre ok.",
+      "ingredients": [
+        {
+          "item": "Weißkohl / grüner Kohl",
+          "amount": 500,
+          "unit": "g",
+          "per": "basis",
+          "note": "ca. ½ Kopf"
+        },
+        {
+          "item": "Eier groß",
+          "amount": 3,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Salz",
+          "amount": 0.5,
+          "unit": "TL",
+          "per": "basis",
+          "note": "in die Eier"
+        },
+        {
+          "item": "gelbe Zwiebel",
+          "amount": 0.5,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Möhre",
+          "amount": 0.5,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Knoblauchzehen",
+          "amount": 3,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "rote Chilischote",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Frühlingszwiebeln",
+          "amount": 4,
+          "unit": "Stück",
+          "per": "basis",
+          "note": "Weiß und Grün getrennt"
+        },
+        {
+          "item": "neutrales Öl",
+          "amount": null,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "helle Sojasauce",
+          "amount": 3,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Unagi-Sauce",
+          "amount": 1,
+          "unit": "EL",
+          "per": "basis",
+          "note": "süßer Soja-Glaze"
+        }
+      ],
+      "steps": [
+        "Kohl waschen, trocknen; Blätter und Rippen getrennt; Eier mit Salz; Aromaten vorbereiten.",
+        "Eier weich braten und rausnehmen; Aromaten und Möhre anbraten.",
+        "Rippen zuerst, dann Blätter; Eier zurück, Grün, Soja + Unagi; sofort vom Herd."
+      ],
+      "trick": "Rippen vor Blättern; Eier separat; Kohl trocken.",
+      "open": [
+        "Unagi optional ersetzen; Finish-Sauce nur in der YT-Description."
+      ],
+      "nutritionPerPerson": {
+        "kcal": 225,
+        "proteinG": 8,
+        "fatG": 14,
+        "carbsG": 15,
+        "note": "webspoon.world"
+      },
+      "image": "bilder/chinesischer-kohl-ei.jpg",
+      "imageNote": "Frame vom Videoende, Chopsticks heben Kohl."
     }
   ]
 }
