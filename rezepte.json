@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-09-13",
+  "updated": "2026-09-24",
   "rules": [
     "Personen flexibel. basisPersons ist die Quellenmenge, nicht die einzige Portion.",
     "Nie ein halbes Ei. Dose und Becher dürfen halb, Rest kühl.",
@@ -3909,6 +3909,113 @@
       },
       "image": "bilder/chinesischer-kohl-ei.jpg",
       "imageNote": "Frame vom Videoende, Chopsticks heben Kohl."
+    },
+    {
+      "id": "kaese-lauch-suppe-hack",
+      "title": "Käse-Lauch-Suppe mit Hackfleisch",
+      "source": {
+        "name": "Mark / Einfach Kochen",
+        "title": "Käse-Lauch-Suppe mit Hackfleisch",
+        "url": "https://www.einfachkochen.de/rezepte/kaese-lauch-suppe-mit-hackfleisch"
+      },
+      "timeMin": 30,
+      "status": "v1, ungetestet",
+      "basisPersons": 4,
+      "scale": "Basis 4. Halbe Dosen/Packungen ok wenn Rest hält; Eier/Würste nie halb — hier nicht relevant.",
+      "ingredients": [
+        {
+          "item": "Zwiebel",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Knoblauchzehe",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Porree (Lauch)",
+          "amount": 250,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "gemischtes Hackfleisch",
+          "amount": 500,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Sonnenblumenöl",
+          "amount": 2,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Salz",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "nach Geschmack"
+        },
+        {
+          "item": "Gemüsebrühe",
+          "amount": 800,
+          "unit": "ml",
+          "per": "basis"
+        },
+        {
+          "item": "Schmelzkäse (Rahmstufe)",
+          "amount": 200,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Crème fraîche (30 % Fett)",
+          "amount": 150,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Cayennepfeffer",
+          "amount": 1,
+          "unit": "Prise",
+          "per": "basis"
+        },
+        {
+          "item": "geriebene Muskatnuss",
+          "amount": 1,
+          "unit": "Prise",
+          "per": "basis"
+        },
+        {
+          "item": "ofenfrisches Baguette",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "optional zum Servieren"
+        }
+      ],
+      "steps": [
+        "Vorbereitung — Zwiebel und Knoblauch abziehen und fein würfeln. Porree halbieren, gründlich waschen, abtropfen lassen, putzen und in Scheiben schneiden.",
+        "Zubereitung — Einen großen Topf erhitzen. Gemischtes Hackfleisch, Zwiebelwürfel und Knoblauchwürfel im Sonnenblumenöl anbraten, bis das Hackfleisch krümelig und gebräunt ist.",
+        "Porree und Salz zum Hackfleisch geben und kurz anschwitzen. Mit der Gemüsebrühe auffüllen und etwa 10 Minuten köcheln lassen, bis der Porree weich ist.",
+        "Schmelzkäse und Crème fraîche einrühren. Die Suppe aufkochen lassen, bis der Schmelzkäse vollständig in der Brühe gelöst ist.",
+        "Die Käse-Lauch-Suppe mit Salz, Cayennepfeffer und geriebener Muskatnuss abschmecken. Nach Wunsch mit ofenfrischem Baguette servieren."
+      ],
+      "trick": "Für eine Eintopf-Variante Kartoffelwürfel gemeinsam mit dem Porree garen.",
+      "open": [],
+      "nutritionPerPerson": {
+        "kcal": 750,
+        "carbsG": 7.4,
+        "proteinG": 41.7,
+        "fatG": 62.3,
+        "note": "Einfach Kochen"
+      },
+      "image": "bilder/kaese-lauch-suppe-hack.jpg",
+      "imageNote": "Originalfoto von Elias Siebert / Einfach Kochen."
     }
   ]
 }
