@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-09-24",
+  "updated": "2026-09-25",
   "rules": [
     "Personen flexibel. basisPersons ist die Quellenmenge, nicht die einzige Portion.",
     "Nie ein halbes Ei. Dose und Becher dürfen halb, Rest kühl.",
@@ -4000,10 +4000,10 @@
       ],
       "steps": [
         "Vorbereitung — Zwiebel und Knoblauch abziehen und fein würfeln. Porree halbieren, gründlich waschen, abtropfen lassen, putzen und in Scheiben schneiden.",
-        "Zubereitung — Einen großen Topf erhitzen. Gemischtes Hackfleisch, Zwiebelwürfel und Knoblauchwürfel im Sonnenblumenöl anbraten, bis das Hackfleisch krümelig und gebräunt ist.",
-        "Porree und Salz zum Hackfleisch geben und kurz anschwitzen. Mit der Gemüsebrühe auffüllen und etwa 10 Minuten köcheln lassen, bis der Porree weich ist.",
+        "Zubereitung — Einen großen Topf erhitzen. Hackfleisch in etwas Öl goldbraun und krümelig anbraten. Aus dem Topf nehmen und zur Seite stellen.",
+        "Zwiebelwürfel, Knoblauchwürfel und Porree mit etwas Salz in den Topf geben und anschwitzen. Mit der Gemüsebrühe auffüllen und etwa 10 Minuten köcheln lassen, bis der Porree weich ist.",
         "Schmelzkäse und Crème fraîche einrühren. Die Suppe aufkochen lassen, bis der Schmelzkäse vollständig in der Brühe gelöst ist.",
-        "Die Käse-Lauch-Suppe mit Salz, Cayennepfeffer und geriebener Muskatnuss abschmecken. Nach Wunsch mit ofenfrischem Baguette servieren."
+        "Die Käse-Lauch-Suppe mit Salz, Cayennepfeffer und geriebener Muskatnuss abschmecken und pürieren. Danach Hackfleisch wieder in den Topf geben und noch einmal erwärmen. Nach Wunsch mit ofenfrischem Baguette servieren."
       ],
       "trick": "Für eine Eintopf-Variante Kartoffelwürfel gemeinsam mit dem Porree garen.",
       "open": [],
