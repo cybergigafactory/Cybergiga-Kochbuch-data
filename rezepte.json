@@ -4023,7 +4023,9 @@
       "source": {
         "name": "Webspoon World",
         "title": "Everyone’s Buying Air Fryers After Seeing These! 5 Genius Recipes Nobody Tells You About",
-        "url": "https://youtu.be/usRzLKxngqA"
+        "url": "https://youtu.be/usRzLKxngqA",
+        "channelUrl": "https://www.youtube.com/@WebspoonWorld",
+        "credit": "Danke an [Webspoon World](https://www.youtube.com/@WebspoonWorld) für das Rezept."
       },
       "timeMin": 25,
       "status": "v1, ungetestet",
@@ -4097,7 +4099,7 @@
         "Danach beide Seiten fest in das Panko drücken. Andrücken statt nur bestreuen, sonst fallen die Krümel im Korb ab.",
         "Die Dreiecke in einer einzigen Lage in den Korb der Heißluftfritteuse legen, mit etwas Abstand dazwischen, damit die heiße Luft an jede Kante kommt.",
         "Bei 180 °C 10 Minuten garen. Fertig, wenn das Panko tief goldbraun ist und das Hähnchen durchgegart.",
-        "Heiß mit einem Dip nach Wahl servieren."
+        "Heiß mit einem Dip nach Wahl servieren. Danke an Webspoon World (https://www.youtube.com/@WebspoonWorld) für das Rezept."
       ],
       "trick": "Ei zuerst auf beiden Seiten, Panko andrücken, Paste dünn bis zum Rand. Die Tortilla gibt die Form, wie ein Schnitzel ohne Plattieren.",
       "open": [
@@ -4111,8 +4113,8 @@
         "carbsG": 28,
         "note": "webspoon.world (Rezeptseite, pro Portion)"
       },
-      "image": null,
-      "imageNote": "Kein Bild. Noch offen: Rappy liefert die Bilder über Marvin."
+      "image": "bilder/luftfritteuse-haehnchen-tortilla-dreiecke.jpg",
+      "imageNote": "Standbild aus dem Webspoon-World-Video (Rappy geliefert), nur Essen, keine Personen."
     },
     {
       "id": "luftfritteuse-kartoffel-hackball-spiesse",
@@ -4120,7 +4122,9 @@
       "source": {
         "name": "Webspoon World",
         "title": "Everyone’s Buying Air Fryers After Seeing These! 5 Genius Recipes Nobody Tells You About",
-        "url": "https://youtu.be/usRzLKxngqA"
+        "url": "https://youtu.be/usRzLKxngqA",
+        "channelUrl": "https://www.youtube.com/@WebspoonWorld",
+        "credit": "Danke an [Webspoon World](https://www.youtube.com/@WebspoonWorld) für das Rezept."
       },
       "timeMin": 60,
       "status": "v1, ungetestet",
@@ -4220,11 +4224,11 @@
         "Die Barbecue-Sauce dick auf alle Seiten der Spieße streichen. Den Spieß dabei drehen, damit der Überzug von Ende zu Ende gleichmäßig ist und keine Stelle frei bleibt.",
         "Die Spieße ohne Folie zurück in den Korb legen, damit die Hitze an die Sauce kommt. Wenn die Spieße lang sind, die Enden in die Löcher im Korbboden legen und die Spieße über Kreuz anordnen, sodass sie die Seitenwände nicht berühren.",
         "Weitere 10 Minuten bei 180 °C garen, bis die Spieße rund um glänzend sind und die Sauce eingebrannt ist.",
-        "Als „Abendessen am Spieß“ servieren."
+        "Als „Abendessen am Spieß“ servieren. Danke an Webspoon World (https://www.youtube.com/@WebspoonWorld) für das Rezept."
       ],
       "trick": "Speck sehr fein hacken (Fett für das magere Rind), Hack kneten statt rühren, erst in Folie dämpfen, dann mit Sauce bräunen.",
       "open": [
-        "Mengen für Hack, Paprika, Zwiebel, Petersilie und Speck nennt die Quelle nicht; beim ersten Kochen nach Gefühl und notieren.",
+        "Mengen für Hack, Paprika, Zwiebel, Petersilie, Speck und BBQ-Sauce stehen weder im Video noch in der Description noch auf webspoon.world (am 11.10. geprüft); beim ersten Kochen nach Gefühl und notieren.",
         "Spießmaterial und Korbgröße nicht genannt; Spieße müssen in den Korb passen.",
         "Garpunkt der Hackbällchen nur über Optik; Kerntemperatur nennt die Quelle nicht."
       ],
@@ -4235,8 +4239,8 @@
         "carbsG": 48,
         "note": "webspoon.world (Rezeptseite, pro Portion)"
       },
-      "image": null,
-      "imageNote": "Kein Bild. Noch offen: Rappy liefert die Bilder über Marvin."
+      "image": "bilder/luftfritteuse-kartoffel-hackball-spiesse.jpg",
+      "imageNote": "Standbild aus dem Webspoon-World-Video (Rappy geliefert), nur Essen, keine Personen."
     },
     {
       "id": "luftfritteuse-knusper-mais",
@@ -4244,7 +4248,9 @@
       "source": {
         "name": "Webspoon World",
         "title": "Everyone’s Buying Air Fryers After Seeing These! 5 Genius Recipes Nobody Tells You About",
-        "url": "https://youtu.be/usRzLKxngqA"
+        "url": "https://youtu.be/usRzLKxngqA",
+        "channelUrl": "https://www.youtube.com/@WebspoonWorld",
+        "credit": "Danke an [Webspoon World](https://www.youtube.com/@WebspoonWorld) für das Rezept."
       },
       "timeMin": 20,
       "status": "v1, ungetestet",
@@ -4302,7 +4308,7 @@
         "Zubereitung — Den Mais gleichmäßig im Korb der Heißluftfritteuse verteilen.",
         "Bei 190 °C 12 bis 15 Minuten garen.",
         "Nach der Hälfte der Zeit den Korb kräftig schütteln, dann zu Ende garen. Fertig, wenn die Körner außen trocken und knusprig sind.",
-        "Warm über Salat streuen, in Tacos geben oder direkt aus der Schüssel essen."
+        "Warm über Salat streuen, in Tacos geben oder direkt aus der Schüssel essen. Danke an Webspoon World (https://www.youtube.com/@WebspoonWorld) für das Rezept."
       ],
       "trick": "Der Mais ist bereits gekocht, die Stärke macht die Kruste. Bis zum Boden rühren, nach der Hälfte schütteln.",
       "open": [
@@ -4315,8 +4321,8 @@
         "carbsG": 32,
         "note": "webspoon.world (Rezeptseite, pro Portion)"
       },
-      "image": null,
-      "imageNote": "Kein Bild. Noch offen: Rappy liefert die Bilder über Marvin."
+      "image": "bilder/luftfritteuse-knusper-mais.jpg",
+      "imageNote": "Standbild aus dem Webspoon-World-Video (Rappy geliefert), nur Essen, keine Personen."
     },
     {
       "id": "luftfritteuse-donut-holes-zimtzucker",
@@ -4324,7 +4330,9 @@
       "source": {
         "name": "Webspoon World",
         "title": "Everyone’s Buying Air Fryers After Seeing These! 5 Genius Recipes Nobody Tells You About",
-        "url": "https://youtu.be/usRzLKxngqA"
+        "url": "https://youtu.be/usRzLKxngqA",
+        "channelUrl": "https://www.youtube.com/@WebspoonWorld",
+        "credit": "Danke an [Webspoon World](https://www.youtube.com/@WebspoonWorld) für das Rezept."
       },
       "timeMin": 20,
       "status": "v1, ungetestet",
@@ -4389,7 +4397,7 @@
         "Bei 200 °C 10 Minuten garen, bis sie aufgegangen und goldbraun sind.",
         "Sobald die Donut Holes aus der Heißluftfritteuse kommen, sofort in die Zimt-Zucker-Schüssel geben.",
         "Einen Teller als Deckel auf die Schüssel legen und kräftig schütteln, bis alle Kugeln rundum überzogen sind.",
-        "Warm servieren, nach Wunsch mit süßer Sauce beträufeln oder in geschmolzene Schokolade tauchen."
+        "Warm servieren, nach Wunsch mit süßer Sauce beträufeln oder in geschmolzene Schokolade tauchen. Danke an Webspoon World (https://www.youtube.com/@WebspoonWorld) für das Rezept."
       ],
       "trick": "Zimtzucker sofort nach dem Herausnehmen, solange die Kugeln warm sind. Teller als Deckel, schütteln.",
       "open": [
@@ -4403,8 +4411,8 @@
         "carbsG": 33,
         "note": "webspoon.world (Rezeptseite, pro Portion)"
       },
-      "image": null,
-      "imageNote": "Kein Bild. Noch offen: Rappy liefert die Bilder über Marvin."
+      "image": "bilder/luftfritteuse-donut-holes-zimtzucker.jpg",
+      "imageNote": "Standbild aus dem Webspoon-World-Video (Rappy geliefert), nur Essen, keine Personen."
     },
     {
       "id": "luftfritteuse-zwiebel-chips",
@@ -4412,7 +4420,9 @@
       "source": {
         "name": "Webspoon World",
         "title": "Everyone’s Buying Air Fryers After Seeing These! 5 Genius Recipes Nobody Tells You About",
-        "url": "https://youtu.be/usRzLKxngqA"
+        "url": "https://youtu.be/usRzLKxngqA",
+        "channelUrl": "https://www.youtube.com/@WebspoonWorld",
+        "credit": "Danke an [Webspoon World](https://www.youtube.com/@WebspoonWorld) für das Rezept."
       },
       "timeMin": 20,
       "status": "v1, ungetestet",
@@ -4469,7 +4479,7 @@
         "Zubereitung — Die Zwiebelringe im Korb der Heißluftfritteuse verteilen.",
         "Bei 180 °C 15 Minuten garen.",
         "Nach der Hälfte der Zeit den Korb schütteln, damit die Ringe von allen Seiten knusprig werden.",
-        "Fertig, wenn die Ränder tief goldbraun und trocken sind. Sofort servieren, zum Beispiel zu Bier, auf Burgern oder direkt vom Blech."
+        "Fertig, wenn die Ränder tief goldbraun und trocken sind. Sofort servieren, zum Beispiel zu Bier, auf Burgern oder direkt vom Blech. Danke an Webspoon World (https://www.youtube.com/@WebspoonWorld) für das Rezept."
       ],
       "trick": "Ringe etwas dicker schneiden, in der Schüssel mit Deckel schütteln, nach der Hälfte im Korb schütteln.",
       "open": [
@@ -4482,8 +4492,8 @@
         "carbsG": 15,
         "note": "webspoon.world (Rezeptseite, pro Portion)"
       },
-      "image": null,
-      "imageNote": "Kein Bild. Noch offen: Rappy liefert die Bilder über Marvin."
+      "image": "bilder/luftfritteuse-zwiebel-chips.jpg",
+      "imageNote": "Standbild aus dem Webspoon-World-Video (Rappy geliefert), nur Essen, keine Personen."
     }
   ]
 }
