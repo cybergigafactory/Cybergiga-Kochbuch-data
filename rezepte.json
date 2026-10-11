@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-09-25",
+  "updated": "2026-10-11",
   "rules": [
     "Personen flexibel. basisPersons ist die Quellenmenge, nicht die einzige Portion.",
     "Nie ein halbes Ei. Dose und Becher dürfen halb, Rest kühl.",
@@ -4016,6 +4016,474 @@
       },
       "image": "bilder/kaese-lauch-suppe-hack.jpg",
       "imageNote": "Originalfoto von Elias Siebert / Einfach Kochen."
+    },
+    {
+      "id": "luftfritteuse-haehnchen-tortilla-dreiecke",
+      "title": "Knusprige Hähnchen-Tortilla-Dreiecke (Heißluftfritteuse)",
+      "source": {
+        "name": "Webspoon World",
+        "title": "Everyone’s Buying Air Fryers After Seeing These! 5 Genius Recipes Nobody Tells You About",
+        "url": "https://youtu.be/usRzLKxngqA"
+      },
+      "timeMin": 25,
+      "status": "v1, ungetestet",
+      "basisPersons": 2,
+      "scale": "Basis 2 (Quelle: 2 Portionen, 1 Tortilla = 8 Dreiecke). Eier nie halb; für mehr Portionen eine weitere ganze Tortilla und Hähnchenbrust nehmen.",
+      "ingredients": [
+        {
+          "item": "Hähnchenbrust, fein gehackt oder gewolft",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis",
+          "note": "Gewicht nennt die Quelle nicht"
+        },
+        {
+          "item": "Paprikapulver",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "nach Geschmack; Sorte nennt die Quelle nicht"
+        },
+        {
+          "item": "schwarzer Pfeffer",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "nach Geschmack"
+        },
+        {
+          "item": "Salz",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "nach Geschmack"
+        },
+        {
+          "item": "Tortilla, groß",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis",
+          "note": "Ø 30 cm gibt es im Handel u. a. in 6er-Packungen; Rest hält sich (Packungsgröße nachgeschlagen, nicht aus dem Video)"
+        },
+        {
+          "item": "Eier",
+          "amount": 2,
+          "unit": "Stück",
+          "per": "basis",
+          "note": "verquirlt; ganz"
+        },
+        {
+          "item": "Panko-Paniermehl",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "genug für 8 Dreiecke, Menge nennt die Quelle nicht; Panko gibt es üblicherweise in 200-g-Packungen (nachgeschlagen)"
+        },
+        {
+          "item": "Dip nach Wahl",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "optional; Video: „Any sauce works“"
+        }
+      ],
+      "steps": [
+        "Vorbereitung — Hähnchenbrust sehr fein hacken oder durch den Fleischwolf drehen (fertiges Hähnchenhack geht auch).",
+        "Das Hähnchen mit Paprikapulver, schwarzem Pfeffer und Salz zu einer glatten, streichfähigen Paste verrühren.",
+        "Eier in einem tiefen Teller verquirlen. Panko in einen zweiten Teller geben.",
+        "Die Tortilla flach hinlegen. Die Hähnchenpaste mit einem Löffel daraufgeben und ganz dünn bis zum Rand verstreichen. Dünn muss sie sein, damit das Hähnchen in 10 Minuten durchgart.",
+        "Mit einem Pizzaschneider vier Schnitte durch die Tortilla machen, sodass acht Dreiecke entstehen. Das Rad gleiten lassen, ohne zu drücken, damit es das Hähnchen nicht von der Tortilla zieht.",
+        "Zubereitung — Jedes Tortilla-Dreieck zuerst auf beiden Seiten in das verquirlte Ei tauchen, damit das Panko etwas zum Festhalten hat.",
+        "Danach beide Seiten fest in das Panko drücken. Andrücken statt nur bestreuen, sonst fallen die Krümel im Korb ab.",
+        "Die Dreiecke in einer einzigen Lage in den Korb der Heißluftfritteuse legen, mit etwas Abstand dazwischen, damit die heiße Luft an jede Kante kommt.",
+        "Bei 180 °C 10 Minuten garen. Fertig, wenn das Panko tief goldbraun ist und das Hähnchen durchgegart.",
+        "Heiß mit einem Dip nach Wahl servieren."
+      ],
+      "trick": "Ei zuerst auf beiden Seiten, Panko andrücken, Paste dünn bis zum Rand. Die Tortilla gibt die Form, wie ein Schnitzel ohne Plattieren.",
+      "open": [
+        "Gewicht der Hähnchenbrust und Menge Panko nennt die Quelle nicht.",
+        "Kerntemperatur nennt die Quelle nicht; Garpunkt nur über Farbe und Durchgaren prüfen."
+      ],
+      "nutritionPerPerson": {
+        "kcal": 330,
+        "proteinG": 32,
+        "fatG": 9,
+        "carbsG": 28,
+        "note": "webspoon.world (Rezeptseite, pro Portion)"
+      },
+      "image": null,
+      "imageNote": "Kein Bild. Noch offen: Rappy liefert die Bilder über Marvin."
+    },
+    {
+      "id": "luftfritteuse-kartoffel-hackball-spiesse",
+      "title": "Kartoffel-Hackbällchen-Spieße mit BBQ-Sauce (Heißluftfritteuse)",
+      "source": {
+        "name": "Webspoon World",
+        "title": "Everyone’s Buying Air Fryers After Seeing These! 5 Genius Recipes Nobody Tells You About",
+        "url": "https://youtu.be/usRzLKxngqA"
+      },
+      "timeMin": 60,
+      "status": "v1, ungetestet",
+      "basisPersons": 4,
+      "scale": "Basis 4 (Quelle: 4 Portionen, 4 Kartoffeln = 4 Spieße). Eine Kartoffel pro Spieß.",
+      "ingredients": [
+        {
+          "item": "Kartoffeln, mittelgroß, mit Schale",
+          "amount": 4,
+          "unit": "Stück",
+          "per": "basis"
+        },
+        {
+          "item": "Rinderhack, mager",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "Menge nennt die Quelle nicht"
+        },
+        {
+          "item": "rote Paprika, fein gehackt",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "Menge nennt die Quelle nicht"
+        },
+        {
+          "item": "Zwiebel, fein gehackt",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "Menge nennt die Quelle nicht"
+        },
+        {
+          "item": "Petersilie, fein gehackt",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "Menge nennt die Quelle nicht"
+        },
+        {
+          "item": "Speck, sehr klein gehackt",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "Menge nennt die Quelle nicht; er liefert das Fett für das magere Rind"
+        },
+        {
+          "item": "Salz",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "nach Geschmack"
+        },
+        {
+          "item": "schwarzer Pfeffer",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "nach Geschmack"
+        },
+        {
+          "item": "Barbecue-Sauce",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "zum dicken Bestreichen; Menge nennt die Quelle nicht"
+        },
+        {
+          "item": "Spieße",
+          "amount": 4,
+          "unit": "Stück",
+          "per": "basis",
+          "note": "einer pro Kartoffel; Material und Länge nennt die Quelle nicht (müssen in den Korb passen)"
+        },
+        {
+          "item": "Alufolie",
+          "amount": 4,
+          "unit": "Stück",
+          "per": "basis",
+          "note": "ein Stück pro Spieß zum festen Einwickeln"
+        }
+      ],
+      "steps": [
+        "Vorbereitung — Die Kartoffeln mit Schale lassen und vorher gründlich abspülen. Jede Kartoffel in ca. 1 cm dicke Scheiben schneiden.",
+        "Die Scheiben jeder Kartoffel in der alten Reihenfolge wieder aufeinanderlegen, sodass wieder eine ganze Kartoffel entsteht. Die Kartoffeln getrennt bereitlegen.",
+        "Rote Paprika, Zwiebel und Petersilie sehr fein hacken.",
+        "Den Speck noch kleiner hacken, als du denkst, damit er im Hack „verschwindet“. Mageres Rinderhack trocknet im Heißluftfritteusen-Korb schnell aus, der Speck liefert das Fett.",
+        "Rinderhack in eine große Schüssel geben. Rote Paprika, Zwiebel, Petersilie, Salz, schwarzen Pfeffer und den gehackten Speck dazugeben.",
+        "Alles mit den Händen richtig durchkneten (nicht nur rühren), bis die Masse klebrig ist und zusammenhält. Ein Löffel schiebt das Hack nur herum.",
+        "Aus der Masse walnussgroße Bällchen rollen und die gesamte Masse so verarbeiten.",
+        "Die Spieße bestücken: abwechselnd eine Kartoffelscheibe und ein Hackbällchen aufstecken (Scheibe, Bällchen, Scheibe, Bällchen), bis in jeder Lücke Fleisch sitzt. Jedes Bällchen liegt flach an seiner Scheibe an. So entsteht aus jeder Kartoffel ein gefüllter Spieß.",
+        "Jeden Spieß fest in Alufolie einwickeln.",
+        "Zubereitung — Alle eingewickelten Spieße in den Korb der Heißluftfritteuse legen und schließen.",
+        "Bei 180 °C 25 Minuten garen. Die Kartoffel dämpft in der Folie gar, wird dabei aber noch nicht braun.",
+        "Die Spieße auspacken. Die Kartoffeln sind jetzt durchgegart.",
+        "Die Barbecue-Sauce dick auf alle Seiten der Spieße streichen. Den Spieß dabei drehen, damit der Überzug von Ende zu Ende gleichmäßig ist und keine Stelle frei bleibt.",
+        "Die Spieße ohne Folie zurück in den Korb legen, damit die Hitze an die Sauce kommt. Wenn die Spieße lang sind, die Enden in die Löcher im Korbboden legen und die Spieße über Kreuz anordnen, sodass sie die Seitenwände nicht berühren.",
+        "Weitere 10 Minuten bei 180 °C garen, bis die Spieße rund um glänzend sind und die Sauce eingebrannt ist.",
+        "Als „Abendessen am Spieß“ servieren."
+      ],
+      "trick": "Speck sehr fein hacken (Fett für das magere Rind), Hack kneten statt rühren, erst in Folie dämpfen, dann mit Sauce bräunen.",
+      "open": [
+        "Mengen für Hack, Paprika, Zwiebel, Petersilie und Speck nennt die Quelle nicht; beim ersten Kochen nach Gefühl und notieren.",
+        "Spießmaterial und Korbgröße nicht genannt; Spieße müssen in den Korb passen.",
+        "Garpunkt der Hackbällchen nur über Optik; Kerntemperatur nennt die Quelle nicht."
+      ],
+      "nutritionPerPerson": {
+        "kcal": 520,
+        "proteinG": 30,
+        "fatG": 22,
+        "carbsG": 48,
+        "note": "webspoon.world (Rezeptseite, pro Portion)"
+      },
+      "image": null,
+      "imageNote": "Kein Bild. Noch offen: Rappy liefert die Bilder über Marvin."
+    },
+    {
+      "id": "luftfritteuse-knusper-mais",
+      "title": "Knuspermais aus der Heißluftfritteuse",
+      "source": {
+        "name": "Webspoon World",
+        "title": "Everyone’s Buying Air Fryers After Seeing These! 5 Genius Recipes Nobody Tells You About",
+        "url": "https://youtu.be/usRzLKxngqA"
+      },
+      "timeMin": 20,
+      "status": "v1, ungetestet",
+      "basisPersons": 2,
+      "scale": "Basis 2 (Quelle: 2 Portionen, 1 Dose). Für mehr Portionen ganze Dosen nehmen.",
+      "ingredients": [
+        {
+          "item": "Zuckermais, abgetropft",
+          "amount": 1,
+          "unit": "Dose",
+          "per": "basis",
+          "note": "Dosengröße nennt die Quelle nicht; üblich sind 340 g Füllmenge / ca. 280–285 g Abtropfgewicht (nachgeschlagen)"
+        },
+        {
+          "item": "Speisestärke",
+          "amount": 1,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Paprikapulver",
+          "amount": 2,
+          "unit": "EL",
+          "per": "basis",
+          "note": "Sorte nennt die Quelle nicht"
+        },
+        {
+          "item": "Chilipulver",
+          "amount": 0.5,
+          "unit": "TL",
+          "per": "basis",
+          "note": "für milder weniger"
+        },
+        {
+          "item": "Salz",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "nach Geschmack"
+        },
+        {
+          "item": "Olivenöl",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "ein kleiner Schuss"
+        }
+      ],
+      "steps": [
+        "Vorbereitung — Die Dose öffnen (Tipp aus dem Video: einen Löffel als Hebel unter den Rand schieben). Den Mais in ein Sieb gießen und abtropfen lassen.",
+        "Die Maiskörner in eine große Schüssel geben, damit du ohne Körner über die Arbeitsplatte zu jagen gründlich rühren kannst. Der Mais ist schon gar, er bekommt nur eine Kruste.",
+        "Speisestärke, Paprikapulver, Chilipulver und Salz dazugeben. Für einen milderen Snack weniger Chilipulver nehmen.",
+        "Gründlich bis zum Schüsselboden durchrühren, bis jedes Maiskorn Gewürz abbekommen hat.",
+        "Einen kleinen Schuss Olivenöl dazugeben und noch einmal rühren, bis das Öl überall verteilt ist.",
+        "Zubereitung — Den Mais gleichmäßig im Korb der Heißluftfritteuse verteilen.",
+        "Bei 190 °C 12 bis 15 Minuten garen.",
+        "Nach der Hälfte der Zeit den Korb kräftig schütteln, dann zu Ende garen. Fertig, wenn die Körner außen trocken und knusprig sind.",
+        "Warm über Salat streuen, in Tacos geben oder direkt aus der Schüssel essen."
+      ],
+      "trick": "Der Mais ist bereits gekocht, die Stärke macht die Kruste. Bis zum Boden rühren, nach der Hälfte schütteln.",
+      "open": [
+        "Dosengröße nicht im Video; die Angabe 340 g / 285 g ist aus dem Handel nachgeschlagen."
+      ],
+      "nutritionPerPerson": {
+        "kcal": 190,
+        "proteinG": 4,
+        "fatG": 6,
+        "carbsG": 32,
+        "note": "webspoon.world (Rezeptseite, pro Portion)"
+      },
+      "image": null,
+      "imageNote": "Kein Bild. Noch offen: Rappy liefert die Bilder über Marvin."
+    },
+    {
+      "id": "luftfritteuse-donut-holes-zimtzucker",
+      "title": "Mini-Donuts (Donut Holes) mit Zimtzucker aus der Heißluftfritteuse",
+      "source": {
+        "name": "Webspoon World",
+        "title": "Everyone’s Buying Air Fryers After Seeing These! 5 Genius Recipes Nobody Tells You About",
+        "url": "https://youtu.be/usRzLKxngqA"
+      },
+      "timeMin": 20,
+      "status": "v1, ungetestet",
+      "basisPersons": 4,
+      "scale": "Basis 4 (Quelle: 4 Portionen). Menge frei skalierbar.",
+      "ingredients": [
+        {
+          "item": "Weizenmehl, selbstaufgehend",
+          "amount": 130,
+          "unit": "g",
+          "per": "basis",
+          "note": "= 1 Cup (Quelle). Normales Weizenmehl ist nicht selbstaufgehend, dann Backpulver unten nehmen"
+        },
+        {
+          "item": "Joghurt, natur, dick",
+          "amount": 180,
+          "unit": "g",
+          "per": "basis",
+          "note": "= ¾ Cup (Quelle)"
+        },
+        {
+          "item": "Backpulver",
+          "amount": 1.5,
+          "unit": "TL",
+          "per": "basis",
+          "note": "nur wenn das Mehl nicht selbstaufgehend ist (Quelle)"
+        },
+        {
+          "item": "Olivenöl",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "zum Einsprühen oder Beträufeln, Menge nennt die Quelle nicht"
+        },
+        {
+          "item": "Zimt",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Zucker",
+          "amount": 2,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "süße Sauce oder geschmolzene Schokolade",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "optional zum Servieren/Dippen"
+        }
+      ],
+      "steps": [
+        "Vorbereitung — Falls dein Mehl nicht selbstaufgehend ist: das Backpulver zuerst gründlich unter das Mehl mischen.",
+        "Das Mehl auf die Arbeitsfläche geben und in der Mitte eine Mulde formen.",
+        "Den Joghurt nach und nach in die Mulde geben. Dabei die ganze Zeit mit einer Teigkarte einarbeiten, bis ein klebriger, zusammenhängender Teig entsteht.",
+        "Aus dem Teig kleine Kugeln rollen.",
+        "Zimt und Zucker in einer Schüssel mischen (das geht, während die Kugeln garen).",
+        "Zubereitung — Die Teigkugeln mit etwas Abstand in den Korb der Heißluftfritteuse legen und kurz mit Olivenöl einsprühen oder leicht beträufeln.",
+        "Bei 200 °C 10 Minuten garen, bis sie aufgegangen und goldbraun sind.",
+        "Sobald die Donut Holes aus der Heißluftfritteuse kommen, sofort in die Zimt-Zucker-Schüssel geben.",
+        "Einen Teller als Deckel auf die Schüssel legen und kräftig schütteln, bis alle Kugeln rundum überzogen sind.",
+        "Warm servieren, nach Wunsch mit süßer Sauce beträufeln oder in geschmolzene Schokolade tauchen."
+      ],
+      "trick": "Zimtzucker sofort nach dem Herausnehmen, solange die Kugeln warm sind. Teller als Deckel, schütteln.",
+      "open": [
+        "Kugelgröße nennt die Quelle nicht („klein“).",
+        "Selbstaufgehendes Mehl ist in Deutschland unüblich; mit Weizenmehl Backpulver laut Quelle nehmen."
+      ],
+      "nutritionPerPerson": {
+        "kcal": 180,
+        "proteinG": 6,
+        "fatG": 3,
+        "carbsG": 33,
+        "note": "webspoon.world (Rezeptseite, pro Portion)"
+      },
+      "image": null,
+      "imageNote": "Kein Bild. Noch offen: Rappy liefert die Bilder über Marvin."
+    },
+    {
+      "id": "luftfritteuse-zwiebel-chips",
+      "title": "Knusprige Zwiebel-Chips aus der Heißluftfritteuse",
+      "source": {
+        "name": "Webspoon World",
+        "title": "Everyone’s Buying Air Fryers After Seeing These! 5 Genius Recipes Nobody Tells You About",
+        "url": "https://youtu.be/usRzLKxngqA"
+      },
+      "timeMin": 20,
+      "status": "v1, ungetestet",
+      "basisPersons": 2,
+      "scale": "Basis 2 (Quelle: 2 Portionen, 1–2 Zwiebeln).",
+      "ingredients": [
+        {
+          "item": "Zwiebeln",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis",
+          "note": "Quelle: 1–2 Stück"
+        },
+        {
+          "item": "Weizenmehl",
+          "amount": 1,
+          "unit": "EL",
+          "per": "basis"
+        },
+        {
+          "item": "Paprikapulver",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis",
+          "note": "Sorte nennt die Quelle nicht"
+        },
+        {
+          "item": "Salz",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "nach Geschmack"
+        },
+        {
+          "item": "Cayennepfeffer",
+          "amount": 1,
+          "unit": "Prise",
+          "per": "basis"
+        },
+        {
+          "item": "Olivenöl",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "ein kleiner Schuss"
+        }
+      ],
+      "steps": [
+        "Vorbereitung — Die Zwiebeln abziehen und in Ringe schneiden, etwas dicker als zum Braten.",
+        "Die Ringe in eine Schüssel mit Deckel geben.",
+        "Weizenmehl, Paprikapulver, Salz und Cayennepfeffer dazugeben.",
+        "Einen kleinen Schuss Olivenöl darüberträufeln.",
+        "Den Deckel schließen und die Schüssel kräftig schütteln, bis alle Zwiebelringe gleichmäßig überzogen sind.",
+        "Zubereitung — Die Zwiebelringe im Korb der Heißluftfritteuse verteilen.",
+        "Bei 180 °C 15 Minuten garen.",
+        "Nach der Hälfte der Zeit den Korb schütteln, damit die Ringe von allen Seiten knusprig werden.",
+        "Fertig, wenn die Ränder tief goldbraun und trocken sind. Sofort servieren, zum Beispiel zu Bier, auf Burgern oder direkt vom Blech."
+      ],
+      "trick": "Ringe etwas dicker schneiden, in der Schüssel mit Deckel schütteln, nach der Hälfte im Korb schütteln.",
+      "open": [
+        "1–2 Zwiebeln: für einen kleinen Snack reicht eine."
+      ],
+      "nutritionPerPerson": {
+        "kcal": 110,
+        "proteinG": 2,
+        "fatG": 5,
+        "carbsG": 15,
+        "note": "webspoon.world (Rezeptseite, pro Portion)"
+      },
+      "image": null,
+      "imageNote": "Kein Bild. Noch offen: Rappy liefert die Bilder über Marvin."
     }
   ]
 }
