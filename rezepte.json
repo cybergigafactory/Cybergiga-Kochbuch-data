@@ -4127,7 +4127,7 @@
         "credit": "Danke an [Webspoon World](https://www.youtube.com/@WebspoonWorld) für das Rezept."
       },
       "timeMin": 60,
-      "status": "v1, ungetestet",
+      "status": "v1, ungetestet, Mengen teils Vorschlag",
       "basisPersons": 4,
       "scale": "Basis 4 (Quelle: 4 Portionen, 4 Kartoffeln = 4 Spieße). Eine Kartoffel pro Spieß.",
       "ingredients": [
@@ -4139,38 +4139,38 @@
         },
         {
           "item": "Rinderhack, mager",
-          "amount": null,
-          "unit": null,
+          "amount": 500,
+          "unit": "g",
           "per": "basis",
-          "note": "Menge nennt die Quelle nicht"
+          "note": "Vorschlag Sanji, von Rappy bestätigt (nicht aus dem Video); ca. 5 Bällchen pro Spieß, je ca. 25 g"
         },
         {
           "item": "rote Paprika, fein gehackt",
-          "amount": null,
-          "unit": null,
+          "amount": 1,
+          "unit": "Stück",
           "per": "basis",
-          "note": "Menge nennt die Quelle nicht"
+          "note": "Vorschlag, nicht aus dem Video; ca. 150 g"
         },
         {
           "item": "Zwiebel, fein gehackt",
-          "amount": null,
-          "unit": null,
+          "amount": 1,
+          "unit": "Stück",
           "per": "basis",
-          "note": "Menge nennt die Quelle nicht"
+          "note": "Vorschlag, nicht aus dem Video; mittelgroß"
         },
         {
           "item": "Petersilie, fein gehackt",
-          "amount": null,
-          "unit": null,
+          "amount": 3,
+          "unit": "EL",
           "per": "basis",
-          "note": "Menge nennt die Quelle nicht"
+          "note": "Vorschlag, nicht aus dem Video; ca. 1 kleines Bund"
         },
         {
           "item": "Speck, sehr klein gehackt",
-          "amount": null,
-          "unit": null,
+          "amount": 100,
+          "unit": "g",
           "per": "basis",
-          "note": "Menge nennt die Quelle nicht; er liefert das Fett für das magere Rind"
+          "note": "Vorschlag, nicht aus dem Video; liefert das Fett für das magere Rind"
         },
         {
           "item": "Salz",
@@ -4188,10 +4188,10 @@
         },
         {
           "item": "Barbecue-Sauce",
-          "amount": null,
-          "unit": null,
+          "amount": 100,
+          "unit": "g",
           "per": "basis",
-          "note": "zum dicken Bestreichen; Menge nennt die Quelle nicht"
+          "note": "Vorschlag, nicht aus dem Video; ca. 6 EL, zum dicken Bestreichen"
         },
         {
           "item": "Spieße",
@@ -4228,7 +4228,7 @@
       ],
       "trick": "Speck sehr fein hacken (Fett für das magere Rind), Hack kneten statt rühren, erst in Folie dämpfen, dann mit Sauce bräunen.",
       "open": [
-        "Mengen für Hack, Paprika, Zwiebel, Petersilie, Speck und BBQ-Sauce stehen weder im Video noch in der Description noch auf webspoon.world (am 11.10. geprüft); beim ersten Kochen nach Gefühl und notieren.",
+        "Mengen für Hack, Paprika, Zwiebel, Petersilie, Speck und BBQ-Sauce stehen weder im Video noch auf webspoon.world; die Werte auf der Karte sind ein Vorschlag (Rappy hat 500 g Hack bestätigt, 5 Bällchen pro Spieß, 6 Kartoffelscheiben pro Kartoffel). Beim ersten Kochen prüfen und notieren.",
         "Spießmaterial und Korbgröße nicht genannt; Spieße müssen in den Korb passen.",
         "Garpunkt der Hackbällchen nur über Optik; Kerntemperatur nennt die Quelle nicht."
       ],
