@@ -4631,17 +4631,15 @@
         "Zartbitter-Schokoladen-Chunks dazugeben und auf niedriger Stufe kurz unterrühren, nur bis sie verteilt sind. Den Cookie-Teig beiseitestellen.",
         "Brownie-Teig: Zartbitter-Schokolade mit einem großen Messer auf dem Brett fein hacken.",
         "Gehackte Zartbitter-Schokolade, Butter (Brownie-Teig), braunen Zucker (Brownie-Teig) und Zuckerrübensirup in eine große mikrowellengeeignete Schüssel geben. In der Mikrowelle bei mittlerer Leistung (ca. 600 W) insgesamt etwa 1,5–3 Min. erwärmen, dabei alle 30 Sek. umrühren. Fertig, sobald Butter und Schokolade geschmolzen sind und die Masse glatt ist; nur warm, nicht heiß werden lassen.",
-        "Die Masse ca. 5 Min. abkühlen lassen. In der Zeit den Backofen auf 180 °C vorheizen und eine rechteckige Form (30 x 20 x 6 cm) mit Backpapier auslegen.",
+        "Die Masse ca. 5 Min. abkühlen lassen. In der Zeit den Backofen auf 180 °C Umluft vorheizen und eine rechteckige Form (30 x 20 x 6 cm) mit Backpapier auslegen.",
         "Eier, Mehl (Brownie-Teig) und Backkakao zur Schokoladenmasse geben und mit dem Handrührgerät bzw. der Küchenmaschine ca. 20–30 Sek. auf mittlerer Stufe verrühren, bis keine Mehlnester mehr zu sehen sind.",
         "Den Brownie-Teig in die Form geben und verteilen. Den Cookie-Teig löffelweise mit kleinen Abständen auf dem Brownie-Teig verteilen.",
-        "Ca. 40 Min. bei 180 °C im unteren Drittel des Backofens backen.",
+        "Ca. 40 Min. bei 180 °C Umluft im unteren Drittel des Backofens backen.",
         "In der Form abkühlen lassen, vorsichtig herausnehmen, in Stücke schneiden und servieren."
       ],
-      "trick": "Erst Cookie-Teig rühren, dann Brownie-Teig: so braucht es nur eine zweite Schüssel.",
+      "trick": null,
       "open": [
-        "Original ist ein Thermomix-Rezept, umgeschrieben auf Handrührgerät/Küchenmaschine, Messer und Mikrowelle; Mikrowellenzeit ist geschätzt.",
-        "Die Quelle verweist beim Backen auf einen Tipp, der in der Mail fehlt.",
-        "Ober-/Unterhitze oder Umluft nennt die Quelle nicht."
+        "Original ist ein Thermomix-Rezept, umgeschrieben auf Handrührgerät/Küchenmaschine, Messer und Mikrowelle; Mikrowellenzeit ist geschätzt."
       ],
       "nutritionPerPerson": {
         "source": "Rappys Mail (pro Stück)",
