@@ -4837,8 +4837,8 @@
       },
       "timeMin": 75,
       "status": "v1, ungetestet",
-      "basisPersons": 8,
-      "scale": "Basis 8 Personen (ganzes Blech 30 x 20 cm, ca. 20 Stücke, also 2–3 Stück pro Person). Eier ganz, nie halb.",
+      "basisPersons": 20,
+      "scale": "Basis 20 Stücke für eine Form 30 x 20 cm. Eier ganz, nie halb; für halbe Menge kleinere Form nehmen.",
       "ingredients": [
         {
           "item": "Butter",
@@ -4969,12 +4969,12 @@
         "Original ist ein Thermomix-Rezept, umgeschrieben auf Handrührgerät/Küchenmaschine, Messer und Mikrowelle; Mikrowellenzeit ist geschätzt."
       ],
       "nutritionPerPerson": {
-        "source": "Rappys Mail (386 kcal pro Stück), umgerechnet auf 1 von 8 Personen = 2,5 Stück",
-        "kcal": 965,
-        "proteinG": 15,
-        "fatG": 52,
-        "carbsG": 110,
-        "fiberG": 6
+        "source": "Rappys Mail (pro Stück)",
+        "kcal": 386,
+        "proteinG": 6,
+        "fatG": 21,
+        "carbsG": 44,
+        "fiberG": 2.4
       },
       "image": "bilder/brookies.jpg",
       "imageNote": "Von Rappy per Mail als Vorschaubild geschickt. Nur Essen.",
