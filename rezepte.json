@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-10-11",
+  "updated": "2026-10-15",
   "rules": [
     "Personen flexibel. basisPersons ist die Quellenmenge, nicht die einzige Portion.",
     "Nie ein halbes Ei. Dose und Becher dürfen halb, Rest kühl.",
@@ -4499,6 +4499,160 @@
       },
       "image": "bilder/luftfritteuse-zwiebel-chips.jpg",
       "imageNote": "Standbild aus dem Webspoon-World-Video (Rappy geliefert), nur Essen, keine Personen."
+    },
+    {
+      "id": "brookies",
+      "title": "Brookies (Brownie + Cookies)",
+      "source": {
+        "name": "Rappy per Mail",
+        "title": "Neues Rezept für Sanji – Brookies (Brownie + Cookies)",
+        "url": null
+      },
+      "timeMin": 75,
+      "status": "v1, ungetestet",
+      "basisPersons": 20,
+      "scale": "Basis 20 Stücke für eine Form 30 x 20 cm. Eier ganz, nie halb; für halbe Menge kleinere Form nehmen.",
+      "ingredients": [
+        {
+          "item": "Butter",
+          "amount": 115,
+          "unit": "g",
+          "per": "basis",
+          "note": "Cookie-Teig; weich, in Stücken"
+        },
+        {
+          "item": "Ei",
+          "amount": 1,
+          "unit": "Stück",
+          "per": "basis",
+          "note": "Cookie-Teig"
+        },
+        {
+          "item": "brauner Zucker",
+          "amount": 120,
+          "unit": "g",
+          "per": "basis",
+          "note": "Cookie-Teig"
+        },
+        {
+          "item": "Vanillezucker",
+          "amount": 15,
+          "unit": "g",
+          "per": "basis",
+          "note": "Cookie-Teig; selbst gemacht"
+        },
+        {
+          "item": "Mehl",
+          "amount": 160,
+          "unit": "g",
+          "per": "basis",
+          "note": "Cookie-Teig"
+        },
+        {
+          "item": "Speisestärke",
+          "amount": 10,
+          "unit": "g",
+          "per": "basis",
+          "note": "Cookie-Teig"
+        },
+        {
+          "item": "Natron",
+          "amount": 0.5,
+          "unit": "TL",
+          "per": "basis",
+          "note": "Cookie-Teig"
+        },
+        {
+          "item": "Salz",
+          "amount": 0.25,
+          "unit": "TL",
+          "per": "basis",
+          "note": "Cookie-Teig"
+        },
+        {
+          "item": "Zartbitter-Schokoladen-Chunks",
+          "amount": 100,
+          "unit": "g",
+          "per": "basis",
+          "note": "Cookie-Teig; z. B. von Ruf"
+        },
+        {
+          "item": "Zartbitter-Schokolade",
+          "amount": 250,
+          "unit": "g",
+          "per": "basis",
+          "note": "Brownie-Teig"
+        },
+        {
+          "item": "Butter",
+          "amount": 200,
+          "unit": "g",
+          "per": "basis",
+          "note": "Brownie-Teig; weich, in Stücken, plus etwas zum Einfetten"
+        },
+        {
+          "item": "brauner Zucker",
+          "amount": 240,
+          "unit": "g",
+          "per": "basis",
+          "note": "Brownie-Teig"
+        },
+        {
+          "item": "Zuckerrübensirup",
+          "amount": 70,
+          "unit": "g",
+          "per": "basis",
+          "note": "Brownie-Teig; z. B. Grafschafter Goldsaft"
+        },
+        {
+          "item": "Eier",
+          "amount": 4,
+          "unit": "Stück",
+          "per": "basis",
+          "note": "Brownie-Teig"
+        },
+        {
+          "item": "Mehl",
+          "amount": 200,
+          "unit": "g",
+          "per": "basis",
+          "note": "Brownie-Teig"
+        },
+        {
+          "item": "Backkakao",
+          "amount": 30,
+          "unit": "g",
+          "per": "basis",
+          "note": "Brownie-Teig"
+        }
+      ],
+      "steps": [
+        "Cookie-Teig: Butter (Cookie-Teig), Ei, braunen Zucker (Cookie-Teig), Vanillezucker, Mehl (Cookie-Teig), Speisestärke, Natron und Salz in eine Rührschüssel geben und mit dem Handrührgerät (Knethaken oder Rührbesen) bzw. der Küchenmaschine ca. 30 Sek. bis 1 Min. auf mittlerer Stufe verrühren, bis ein glatter Teig entsteht.",
+        "Zartbitter-Schokoladen-Chunks dazugeben und auf niedriger Stufe kurz unterrühren, nur bis sie verteilt sind. Den Cookie-Teig beiseitestellen.",
+        "Brownie-Teig: Zartbitter-Schokolade mit einem großen Messer auf dem Brett fein hacken.",
+        "Gehackte Zartbitter-Schokolade, Butter (Brownie-Teig), braunen Zucker (Brownie-Teig) und Zuckerrübensirup in eine große mikrowellengeeignete Schüssel geben. In der Mikrowelle bei mittlerer Leistung (ca. 600 W) insgesamt etwa 1,5–3 Min. erwärmen, dabei alle 30 Sek. umrühren. Fertig, sobald Butter und Schokolade geschmolzen sind und die Masse glatt ist; nur warm, nicht heiß werden lassen.",
+        "Die Masse ca. 5 Min. abkühlen lassen. In der Zeit den Backofen auf 180 °C vorheizen und eine rechteckige Form (30 x 20 x 6 cm) mit Backpapier auslegen.",
+        "Eier, Mehl (Brownie-Teig) und Backkakao zur Schokoladenmasse geben und mit dem Handrührgerät bzw. der Küchenmaschine ca. 20–30 Sek. auf mittlerer Stufe verrühren, bis keine Mehlnester mehr zu sehen sind.",
+        "Den Brownie-Teig in die Form geben und verteilen. Den Cookie-Teig löffelweise mit kleinen Abständen auf dem Brownie-Teig verteilen.",
+        "Ca. 40 Min. bei 180 °C im unteren Drittel des Backofens backen.",
+        "In der Form abkühlen lassen, vorsichtig herausnehmen, in Stücke schneiden und servieren."
+      ],
+      "trick": "Erst Cookie-Teig rühren, dann Brownie-Teig: so braucht es nur eine zweite Schüssel.",
+      "open": [
+        "Original ist ein Thermomix-Rezept, umgeschrieben auf Handrührgerät/Küchenmaschine, Messer und Mikrowelle; Mikrowellenzeit ist geschätzt.",
+        "Die Quelle verweist beim Backen auf einen Tipp, der in der Mail fehlt.",
+        "Ober-/Unterhitze oder Umluft nennt die Quelle nicht."
+      ],
+      "nutritionPerPerson": {
+        "source": "Rappys Mail (pro Stück)",
+        "kcal": 386,
+        "proteinG": 6,
+        "fatG": 21,
+        "carbsG": 44,
+        "fiberG": 2.4
+      },
+      "image": "bilder/brookies.jpg",
+      "imageNote": "Von Rappy per Mail als Vorschaubild geschickt. Nur Essen."
     }
   ]
 }
