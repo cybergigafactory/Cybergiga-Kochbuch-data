@@ -131,7 +131,15 @@
         "Nach dem Kochen zu süß, zu dunkel, zu salzig?"
       ],
       "image": "bilder/chinesische-nudeln-rind-zwiebeln.jpg",
-      "imageNote": "Webspoon-Standbild der Rezeptseite, nicht selbst fotografiert."
+      "imageNote": "Webspoon-Standbild der Rezeptseite, nicht selbst fotografiert.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Pasta/Nudeln",
+        "Asiatisch/Curry",
+        "Fleisch",
+        "Pfanne"
+      ]
     },
     {
       "id": "speck-zwiebel-dip",
@@ -206,7 +214,12 @@
         "Zu salzig durch Speck plus Brühe?"
       ],
       "image": "bilder/speck-zwiebel-dip.jpg",
-      "imageNote": "Videoframe, Toast. Kein Topf-Close-up."
+      "imageNote": "Videoframe, Toast. Kein Topf-Close-up.",
+      "categories": [
+        "Dip",
+        "Snack",
+        "Fleisch"
+      ]
     },
     {
       "id": "ofen-zwiebel-tomaten-dip",
@@ -293,7 +306,13 @@
         "Pasta: Fusilli oder Farfalle?"
       ],
       "image": "bilder/ofen-zwiebel-tomaten-dip.jpg",
-      "imageNote": "Videoframe, Toast. Kein Topf-Close-up."
+      "imageNote": "Videoframe, Toast. Kein Topf-Close-up.",
+      "categories": [
+        "Dip",
+        "Snack",
+        "Vegetarisch",
+        "Ofen"
+      ]
     },
     {
       "id": "huettenkaese-speck-dip",
@@ -361,7 +380,13 @@
         "Zu salzig mit Speck?"
       ],
       "image": "bilder/huettenkaese-speck-dip.jpg",
-      "imageNote": "Videoframe, Grissini. Kein Schüttbild."
+      "imageNote": "Videoframe, Grissini. Kein Schüttbild.",
+      "categories": [
+        "Dip",
+        "Snack",
+        "Fleisch",
+        "Ofen"
+      ]
     },
     {
       "id": "whipped-feta-oliven-knoblauch",
@@ -427,7 +452,13 @@
         "Chili und Basilikum behalten?"
       ],
       "image": "bilder/whipped-feta-oliven-knoblauch.jpg",
-      "imageNote": "Webspoon-Standbild der Rezeptseite, nicht selbst fotografiert."
+      "imageNote": "Webspoon-Standbild der Rezeptseite, nicht selbst fotografiert.",
+      "categories": [
+        "Dip",
+        "Snack",
+        "Vegetarisch",
+        "Ofen"
+      ]
     },
     {
       "id": "kuerbis-feta-honig",
@@ -506,7 +537,14 @@
         "Wie viel Honig und Walnüsse?"
       ],
       "image": "bilder/kuerbis-feta-honig.jpg",
-      "imageNote": "Webspoon-Standbild der Rezeptseite, nicht selbst fotografiert."
+      "imageNote": "Webspoon-Standbild der Rezeptseite, nicht selbst fotografiert.",
+      "categories": [
+        "Dip",
+        "Snack",
+        "Vegetarisch",
+        "Ofen",
+        "Herbst"
+      ]
     },
     {
       "id": "frischkaese-zwiebel-bohnen-dip",
@@ -604,7 +642,12 @@
         "Rote oder gelbe Zwiebeln?"
       ],
       "image": "bilder/frischkaese-zwiebel-bohnen-dip.jpg",
-      "imageNote": "Webspoon-Standbild der Rezeptseite, nicht selbst fotografiert."
+      "imageNote": "Webspoon-Standbild der Rezeptseite, nicht selbst fotografiert.",
+      "categories": [
+        "Dip",
+        "Snack",
+        "Vegetarisch"
+      ]
     },
     {
       "id": "pfannen-gnocchi-berner",
@@ -671,7 +714,14 @@
         "Mengen Kräuterbutter fehlen."
       ],
       "image": "bilder/pfannen-gnocchi-berner.jpg",
-      "imageNote": "Eigenes Tellerfoto. Nur Gericht, keine Personen."
+      "imageNote": "Eigenes Tellerfoto. Nur Gericht, keine Personen.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Fleisch",
+        "Pfanne",
+        "Schnell"
+      ]
     },
     {
       "id": "thunfisch-wrap",
@@ -742,7 +792,15 @@
         "carbsG": 21.47
       },
       "image": "bilder/thunfisch-wrap.jpg",
-      "imageNote": "Von Rappy abgelegt. Zutaten nicht aus dem Foto ergänzen."
+      "imageNote": "Von Rappy abgelegt. Zutaten nicht aus dem Foto ergänzen.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Wrap/Brot",
+        "Fisch",
+        "Ohne Kochen/Backen",
+        "Schnell"
+      ]
     },
     {
       "id": "gegrillter-schafskaese-knoblauchtomaten",
@@ -816,7 +874,13 @@
         "note": "Chefkoch, KI-Schätzung laut Quelle"
       },
       "image": "bilder/gegrillter-schafskaese-knoblauchtomaten.jpg",
-      "imageNote": "Von Rappy, 90° gedreht für die Seite."
+      "imageNote": "Von Rappy, 90° gedreht für die Seite.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Vegetarisch",
+        "Ofen"
+      ]
     },
     {
       "id": "zitronenkuchen",
@@ -892,7 +956,13 @@
         "Nährwerte fehlen auf der Live-Seite."
       ],
       "image": "bilder/zitronenkuchen.jpg",
-      "imageNote": "Von der Live-Seite übernommen."
+      "imageNote": "Von der Live-Seite übernommen.",
+      "categories": [
+        "Dessert",
+        "Kuchen/Gebäck",
+        "Vegetarisch",
+        "Ofen"
+      ]
     },
     {
       "id": "hafer-plaetzchen",
@@ -974,7 +1044,14 @@
         "Nährwerte fehlen auf der Live-Seite."
       ],
       "image": "bilder/hafer-plaetzchen.jpg",
-      "imageNote": "Von der Live-Seite übernommen."
+      "imageNote": "Von der Live-Seite übernommen.",
+      "categories": [
+        "Plätzchen",
+        "Kuchen/Gebäck",
+        "Snack",
+        "Vegetarisch",
+        "Ofen"
+      ]
     },
     {
       "id": "dattel-kugeln",
@@ -1042,7 +1119,13 @@
         "Nährwerte fehlen auf der Live-Seite."
       ],
       "image": "bilder/dattel-kugeln.jpg",
-      "imageNote": "Von der Live-Seite übernommen."
+      "imageNote": "Von der Live-Seite übernommen.",
+      "categories": [
+        "Snack",
+        "Dessert",
+        "Ohne Kochen/Backen",
+        "Vegetarisch"
+      ]
     },
     {
       "id": "shakshuka",
@@ -1155,7 +1238,16 @@
         "Nährwerte fehlen auf der Live-Seite."
       ],
       "image": "bilder/shakshuka.jpg",
-      "imageNote": "Von der Live-Seite übernommen."
+      "imageNote": "Von der Live-Seite übernommen.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Frühstück/Brunch",
+        "Vegetarisch",
+        "Ei",
+        "One-Pot",
+        "Pfanne"
+      ]
     },
     {
       "id": "paprika-haehnchen",
@@ -1262,7 +1354,13 @@
         "Nährwerte fehlen auf der Live-Seite."
       ],
       "image": "bilder/paprika-haehnchen.jpg",
-      "imageNote": "Von der Live-Seite übernommen."
+      "imageNote": "Von der Live-Seite übernommen.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Fleisch",
+        "Ofen"
+      ]
     },
     {
       "id": "ofengemuese",
@@ -1375,7 +1473,14 @@
         "Nährwerte fehlen auf der Live-Seite."
       ],
       "image": "bilder/ofengemuese.jpg",
-      "imageNote": "Von der Live-Seite übernommen."
+      "imageNote": "Von der Live-Seite übernommen.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Vegetarisch",
+        "Vegan möglich",
+        "Ofen"
+      ]
     },
     {
       "id": "lachs-dill",
@@ -1458,7 +1563,13 @@
         "Nährwerte fehlen auf der Live-Seite."
       ],
       "image": "bilder/lachs-dill.jpg",
-      "imageNote": "Von der Live-Seite übernommen."
+      "imageNote": "Von der Live-Seite übernommen.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Fisch",
+        "Kartoffeln"
+      ]
     },
     {
       "id": "bolognese",
@@ -1577,7 +1688,13 @@
         "Nährwerte fehlen auf der Live-Seite."
       ],
       "image": "bilder/bolognese.jpg",
-      "imageNote": "Von der Live-Seite übernommen."
+      "imageNote": "Von der Live-Seite übernommen.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Pasta/Nudeln",
+        "Fleisch"
+      ]
     },
     {
       "id": "kokos-curry",
@@ -1683,7 +1800,14 @@
         "Nährwerte fehlen auf der Live-Seite."
       ],
       "image": "bilder/kokos-curry.jpg",
-      "imageNote": "Von der Live-Seite übernommen."
+      "imageNote": "Von der Live-Seite übernommen.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Asiatisch/Curry",
+        "Fisch",
+        "Reis"
+      ]
     },
     {
       "id": "tomatensuppe",
@@ -1785,7 +1909,13 @@
         "Nährwerte fehlen auf der Live-Seite."
       ],
       "image": "bilder/tomatensuppe.jpg",
-      "imageNote": "Von der Live-Seite übernommen."
+      "imageNote": "Von der Live-Seite übernommen.",
+      "categories": [
+        "Abendessen",
+        "Suppe",
+        "Vegetarisch",
+        "Vorspeise"
+      ]
     },
     {
       "id": "gulaschsuppe-roemertopf",
@@ -1903,7 +2033,15 @@
         "note": "Chefkoch, KI-Schätzung laut Quelle"
       },
       "image": "bilder/gulaschsuppe-roemertopf.jpg",
-      "imageNote": "Von Rappy abgelegt."
+      "imageNote": "Von Rappy abgelegt.",
+      "categories": [
+        "Abendessen",
+        "Suppe",
+        "Eintopf",
+        "Fleisch",
+        "Ofen",
+        "One-Pot"
+      ]
     },
     {
       "id": "idiotensichere-lasagne",
@@ -2004,7 +2142,15 @@
         "note": "Chefkoch, KI-Schätzung laut Quelle"
       },
       "image": "bilder/idiotensichere-lasagne.jpg",
-      "imageNote": "Von Rappy abgelegt."
+      "imageNote": "Von Rappy abgelegt.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Pasta/Nudeln",
+        "Fleisch",
+        "Ofen",
+        "Auflauf"
+      ]
     },
     {
       "id": "kokosmilch-curry",
@@ -2085,7 +2231,13 @@
         "Portionszahl und Dosengrößen fehlen."
       ],
       "image": "bilder/kokosmilch-curry.jpg",
-      "imageNote": "Von Rappy abgelegt."
+      "imageNote": "Von Rappy abgelegt.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Asiatisch/Curry",
+        "Fleisch"
+      ]
     },
     {
       "id": "maultaschen-pfanne",
@@ -2172,7 +2324,14 @@
         "note": "Chefkoch, KI-Schätzung laut Quelle"
       },
       "image": "bilder/maultaschen-pfanne.jpg",
-      "imageNote": "Von Rappy abgelegt."
+      "imageNote": "Von Rappy abgelegt.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Fleisch",
+        "Pfanne",
+        "Schnell"
+      ]
     },
     {
       "id": "one-pot-penne-parmesan",
@@ -2277,7 +2436,14 @@
         "note": "Chefkoch, KI-Schätzung laut Quelle"
       },
       "image": "bilder/one-pot-penne-parmesan.jpg",
-      "imageNote": "Von Rappy abgelegt."
+      "imageNote": "Von Rappy abgelegt.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Pasta/Nudeln",
+        "Fleisch",
+        "One-Pot"
+      ]
     },
     {
       "id": "one-pot-spaghetti-pilze",
@@ -2372,7 +2538,14 @@
         "Portionszahl ungenau; Garzeit Spaghetti prüfen."
       ],
       "image": "bilder/one-pot-spaghetti-pilze.jpg",
-      "imageNote": "Von Rappy abgelegt."
+      "imageNote": "Von Rappy abgelegt.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Pasta/Nudeln",
+        "Vegetarisch",
+        "One-Pot"
+      ]
     },
     {
       "id": "schnelle-kaesespaetzle",
@@ -2452,7 +2625,14 @@
         "note": "Chefkoch, KI-Schätzung laut Quelle"
       },
       "image": "bilder/schnelle-kaesespaetzle.jpg",
-      "imageNote": "Von Rappy abgelegt."
+      "imageNote": "Von Rappy abgelegt.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Vegetarisch",
+        "Ofen",
+        "Auflauf"
+      ]
     },
     {
       "id": "ungarische-langos",
@@ -2558,7 +2738,15 @@
         "note": "Chefkoch, KI-Schätzung laut Quelle"
       },
       "image": "bilder/ungarische-langos.jpg",
-      "imageNote": "Von Rappy abgelegt."
+      "imageNote": "Von Rappy abgelegt.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Wrap/Brot",
+        "Vegetarisch",
+        "Frittiert",
+        "Snack"
+      ]
     },
     {
       "id": "erdbeertiramisu",
@@ -2647,7 +2835,12 @@
         "note": "Chefkoch, KI-Schätzung laut Quelle"
       },
       "image": "bilder/erdbeertiramisu.jpg",
-      "imageNote": "Von Rappy abgelegt."
+      "imageNote": "Von Rappy abgelegt.",
+      "categories": [
+        "Dessert",
+        "Vegetarisch",
+        "Ohne Kochen/Backen"
+      ]
     },
     {
       "id": "fladenbrot-tomaten-feta",
@@ -2710,7 +2903,15 @@
       ],
       "nutritionPerPerson": null,
       "image": "bilder/fladenbrot-tomaten-feta.jpg",
-      "imageNote": "Von Rappy abgelegt."
+      "imageNote": "Von Rappy abgelegt.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Wrap/Brot",
+        "Vegetarisch",
+        "Ofen",
+        "Fingerfood"
+      ]
     },
     {
       "id": "haehnchen-ananas-curry",
@@ -2823,7 +3024,14 @@
         "note": "Chefkoch, KI-Schätzung laut Quelle"
       },
       "image": "bilder/haehnchen-ananas-curry.jpg",
-      "imageNote": "Von Rappy abgelegt."
+      "imageNote": "Von Rappy abgelegt.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Asiatisch/Curry",
+        "Fleisch",
+        "Reis"
+      ]
     },
     {
       "id": "nachos-bbq-huehnchen",
@@ -2912,7 +3120,15 @@
       ],
       "nutritionPerPerson": null,
       "image": "bilder/nachos-bbq-huehnchen.jpg",
-      "imageNote": "Von Rappy abgelegt."
+      "imageNote": "Von Rappy abgelegt.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Fingerfood",
+        "Snack",
+        "Fleisch",
+        "Ofen"
+      ]
     },
     {
       "id": "tortellini-alla-panna",
@@ -2994,7 +3210,14 @@
         "note": "Chefkoch, KI-Schätzung laut Quelle"
       },
       "image": "bilder/tortellini-alla-panna.jpg",
-      "imageNote": "Von Rappy abgelegt."
+      "imageNote": "Von Rappy abgelegt.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Pasta/Nudeln",
+        "Fleisch",
+        "Schnell"
+      ]
     },
     {
       "id": "knoblauch-champignons",
@@ -3079,7 +3302,13 @@
         "note": "Chefkoch, KI-Schätzung laut Quelle"
       },
       "image": "bilder/knoblauch-champignons.jpg",
-      "imageNote": "Von Rappy abgelegt."
+      "imageNote": "Von Rappy abgelegt.",
+      "categories": [
+        "Beilage",
+        "Snack",
+        "Vegetarisch",
+        "Pfanne"
+      ]
     },
     {
       "id": "pizzabroetchen",
@@ -3145,7 +3374,15 @@
       ],
       "nutritionPerPerson": null,
       "image": "bilder/pizzabroetchen.jpg",
-      "imageNote": "Von Rappy abgelegt."
+      "imageNote": "Von Rappy abgelegt.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Wrap/Brot",
+        "Fingerfood",
+        "Snack",
+        "Ofen"
+      ]
     },
     {
       "id": "suesskartoffelpommes-haehnchen",
@@ -3247,7 +3484,13 @@
       ],
       "nutritionPerPerson": null,
       "image": "bilder/suesskartoffelpommes-haehnchen.jpg",
-      "imageNote": "Von Rappy abgelegt."
+      "imageNote": "Von Rappy abgelegt.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Fleisch",
+        "Ofen"
+      ]
     },
     {
       "id": "lachs-nudeln",
@@ -3349,7 +3592,13 @@
       ],
       "nutritionPerPerson": null,
       "image": "bilder/lachs-nudeln.jpg",
-      "imageNote": "Von Rappy abgelegt."
+      "imageNote": "Von Rappy abgelegt.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Pasta/Nudeln",
+        "Fisch"
+      ]
     },
     {
       "id": "sloppy-joe-mac-n-cheese",
@@ -3449,7 +3698,14 @@
       ],
       "nutritionPerPerson": null,
       "image": "bilder/sloppy-joe-mac-n-cheese.jpg",
-      "imageNote": "Von Rappy abgelegt."
+      "imageNote": "Von Rappy abgelegt.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Pasta/Nudeln",
+        "Fleisch",
+        "Auflauf"
+      ]
     },
     {
       "id": "champignoncremesuppe",
@@ -3538,7 +3794,13 @@
       ],
       "nutritionPerPerson": null,
       "image": "bilder/champignoncremesuppe.jpg",
-      "imageNote": "Von Rappy abgelegt."
+      "imageNote": "Von Rappy abgelegt.",
+      "categories": [
+        "Abendessen",
+        "Suppe",
+        "Vegetarisch",
+        "Vorspeise"
+      ]
     },
     {
       "id": "tomatensuppe-wildreis-erbsen",
@@ -3638,7 +3900,12 @@
       ],
       "nutritionPerPerson": null,
       "image": "bilder/tomatensuppe-wildreis-erbsen.jpg",
-      "imageNote": "Von Rappy abgelegt."
+      "imageNote": "Von Rappy abgelegt.",
+      "categories": [
+        "Abendessen",
+        "Suppe",
+        "Vegetarisch"
+      ]
     },
     {
       "id": "miso-ramen",
@@ -3797,7 +4064,15 @@
       ],
       "nutritionPerPerson": null,
       "image": "bilder/miso-ramen.jpg",
-      "imageNote": "Von Rappy abgelegt."
+      "imageNote": "Von Rappy abgelegt.",
+      "categories": [
+        "Abendessen",
+        "Suppe",
+        "Hauptgericht",
+        "Pasta/Nudeln",
+        "Asiatisch/Curry",
+        "Fleisch"
+      ]
     },
     {
       "id": "chinesischer-kohl-ei",
@@ -3908,7 +4183,16 @@
         "note": "webspoon.world"
       },
       "image": "bilder/chinesischer-kohl-ei.jpg",
-      "imageNote": "Frame vom Videoende, Chopsticks heben Kohl."
+      "imageNote": "Frame vom Videoende, Chopsticks heben Kohl.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Beilage",
+        "Asiatisch/Curry",
+        "Vegetarisch",
+        "Ei",
+        "Pfanne"
+      ]
     },
     {
       "id": "kaese-lauch-suppe-hack",
@@ -4015,7 +4299,14 @@
         "note": "Einfach Kochen"
       },
       "image": "bilder/kaese-lauch-suppe-hack.jpg",
-      "imageNote": "Originalfoto von Elias Siebert / Einfach Kochen."
+      "imageNote": "Originalfoto von Elias Siebert / Einfach Kochen.",
+      "categories": [
+        "Abendessen",
+        "Suppe",
+        "Eintopf",
+        "Fleisch",
+        "One-Pot"
+      ]
     },
     {
       "id": "luftfritteuse-haehnchen-tortilla-dreiecke",
@@ -4115,7 +4406,15 @@
         "note": "webspoon.world (Rezeptseite, pro Portion)"
       },
       "image": "bilder/luftfritteuse-haehnchen-tortilla-dreiecke.jpg",
-      "imageNote": "Standbild aus dem Webspoon-World-Video (Rappy geliefert), nur Essen, keine Personen."
+      "imageNote": "Standbild aus dem Webspoon-World-Video (Rappy geliefert), nur Essen, keine Personen.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Snack",
+        "Fingerfood",
+        "Fleisch",
+        "Heißluftfritteuse"
+      ]
     },
     {
       "id": "luftfritteuse-kartoffel-hackball-spiesse",
@@ -4242,7 +4541,14 @@
         "note": "webspoon.world (Rezeptseite, pro Portion)"
       },
       "image": "bilder/luftfritteuse-kartoffel-hackball-spiesse.jpg",
-      "imageNote": "Standbild aus dem Webspoon-World-Video (Rappy geliefert), nur Essen, keine Personen."
+      "imageNote": "Standbild aus dem Webspoon-World-Video (Rappy geliefert), nur Essen, keine Personen.",
+      "categories": [
+        "Abendessen",
+        "Hauptgericht",
+        "Fleisch",
+        "Kartoffeln",
+        "Heißluftfritteuse"
+      ]
     },
     {
       "id": "luftfritteuse-knusper-mais",
@@ -4325,7 +4631,14 @@
         "note": "webspoon.world (Rezeptseite, pro Portion)"
       },
       "image": "bilder/luftfritteuse-knusper-mais.jpg",
-      "imageNote": "Standbild aus dem Webspoon-World-Video (Rappy geliefert), nur Essen, keine Personen."
+      "imageNote": "Standbild aus dem Webspoon-World-Video (Rappy geliefert), nur Essen, keine Personen.",
+      "categories": [
+        "Snack",
+        "Beilage",
+        "Vegetarisch",
+        "Vegan",
+        "Heißluftfritteuse"
+      ]
     },
     {
       "id": "luftfritteuse-donut-holes-zimtzucker",
@@ -4416,7 +4729,14 @@
         "note": "webspoon.world (Rezeptseite, pro Portion)"
       },
       "image": "bilder/luftfritteuse-donut-holes-zimtzucker.jpg",
-      "imageNote": "Standbild aus dem Webspoon-World-Video (Rappy geliefert), nur Essen, keine Personen."
+      "imageNote": "Standbild aus dem Webspoon-World-Video (Rappy geliefert), nur Essen, keine Personen.",
+      "categories": [
+        "Dessert",
+        "Snack",
+        "Kuchen/Gebäck",
+        "Vegetarisch",
+        "Heißluftfritteuse"
+      ]
     },
     {
       "id": "luftfritteuse-zwiebel-chips",
@@ -4498,7 +4818,14 @@
         "note": "webspoon.world (Rezeptseite, pro Portion)"
       },
       "image": "bilder/luftfritteuse-zwiebel-chips.jpg",
-      "imageNote": "Standbild aus dem Webspoon-World-Video (Rappy geliefert), nur Essen, keine Personen."
+      "imageNote": "Standbild aus dem Webspoon-World-Video (Rappy geliefert), nur Essen, keine Personen.",
+      "categories": [
+        "Snack",
+        "Beilage",
+        "Vegetarisch",
+        "Vegan",
+        "Heißluftfritteuse"
+      ]
     },
     {
       "id": "brookies",
@@ -4650,7 +4977,13 @@
         "fiberG": 2.4
       },
       "image": "bilder/brookies.jpg",
-      "imageNote": "Von Rappy per Mail als Vorschaubild geschickt. Nur Essen."
+      "imageNote": "Von Rappy per Mail als Vorschaubild geschickt. Nur Essen.",
+      "categories": [
+        "Dessert",
+        "Kuchen/Gebäck",
+        "Vegetarisch",
+        "Ofen"
+      ]
     }
   ]
 }
