@@ -2260,9 +2260,10 @@
         },
         {
           "item": "Gemüsebrühe",
-          "amount": null,
-          "unit": null,
-          "per": "basis"
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis",
+          "note": "Rappy 17.10."
         },
         {
           "item": "Zwiebel, groß",
