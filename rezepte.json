@@ -2278,6 +2278,13 @@
           "per": "basis"
         },
         {
+          "item": "Champignons (optional)",
+          "amount": 500,
+          "unit": "g",
+          "per": "basis",
+          "note": "Rappy 17.10."
+        },
+        {
           "item": "Sahne",
           "amount": null,
           "unit": "Schuss",
@@ -2311,6 +2318,7 @@
       "steps": [
         "Maultaschen in Brühe garen.",
         "Speck auslassen, Zwiebel glasig.",
+        "Optional: Champignons in Scheiben schneiden und mit der Zwiebel anbraten.",
         "Maultaschen-Scheiben mitbraten, Sahne ablöschen, einkochen. Würzen. Dazu Brot und Salat."
       ],
       "trick": "Sahne umhüllt, schwimmt nicht.",
