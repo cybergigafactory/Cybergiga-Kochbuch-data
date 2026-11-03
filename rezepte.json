@@ -5197,14 +5197,14 @@
      "amount": null,
      "unit": null,
      "per": "basis",
-     "note": "Quelle nennt keine Menge"
+     "note": "Nach Bedarf"
     },
     {
      "item": "schwarzer Pfeffer",
      "amount": null,
      "unit": null,
      "per": "basis",
-     "note": "Quelle nennt keine Menge"
+     "note": "Nach Bedarf"
     }
    ],
    "steps": [
@@ -5223,7 +5223,6 @@
    ],
    "trick": "Kerntemperatur 52–55 °C, dann bleibt der Lachs zart und saftig.",
    "open": [
-    "Quelle nennt keine Mengen für Salz und Pfeffer.",
     "Kein Bild vorhanden; Foto vom fertigen Gericht kann Rappy nachliefern."
    ],
    "nutritionPerPerson": {
