@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-10-25",
+ "updated": "2026-11-03",
  "rules": [
   "Personen flexibel. basisPersons ist die Quellenmenge, nicht die einzige Portion.",
   "Nie ein halbes Ei. Dose und Becher dürfen halb, Rest kühl.",
@@ -5118,6 +5118,128 @@
     "Ofen",
     "Auflauf",
     "Kartoffeln"
+   ]
+  },
+  {
+   "id": "lachs-blaetterteig-kraeuter",
+   "title": "Lachs im Blätterteig mit Kräutern",
+   "source": {
+    "name": "eat.de",
+    "title": "Lachs im Blätterteig",
+    "url": "https://eat.de/rezept/lachs-im-blaetterteig/",
+    "channelUrl": null,
+    "credit": "Danke an [eat.de](https://eat.de/rezept/lachs-im-blaetterteig/) für das Rezept."
+   },
+   "timeMin": 60,
+   "status": "v1, ungetestet",
+   "basisPersons": 4,
+   "scale": "Basis 4 (Quelle: 4 Portionen, ein Lachsstrang auf einer Teigrolle).",
+   "ingredients": [
+    {
+     "item": "Lachsfilet",
+     "amount": 500,
+     "unit": "g",
+     "per": "basis"
+    },
+    {
+     "item": "Blattpetersilie",
+     "amount": 1,
+     "unit": "Bund",
+     "per": "basis"
+    },
+    {
+     "item": "Koriander",
+     "amount": 1,
+     "unit": "Bund",
+     "per": "basis"
+    },
+    {
+     "item": "Dill",
+     "amount": 1,
+     "unit": "Bund",
+     "per": "basis"
+    },
+    {
+     "item": "Bio-Limette",
+     "amount": 1,
+     "unit": "Stück",
+     "per": "basis",
+     "note": "Schale abreiben; Bio-Zitrone geht auch"
+    },
+    {
+     "item": "Knoblauchzehe",
+     "amount": 1,
+     "unit": "Stück",
+     "per": "basis"
+    },
+    {
+     "item": "Blätterteig, Rolle",
+     "amount": 1,
+     "unit": "Rolle",
+     "per": "basis",
+     "note": "Kühlregal oder TK (dann vorher auftauen)"
+    },
+    {
+     "item": "Eigelb",
+     "amount": 1,
+     "unit": "Stück",
+     "per": "basis",
+     "note": "zum Bestreichen"
+    },
+    {
+     "item": "Sesam, schwarz oder weiß",
+     "amount": 1,
+     "unit": "EL",
+     "per": "basis"
+    },
+    {
+     "item": "Salz",
+     "amount": null,
+     "unit": null,
+     "per": "basis",
+     "note": "Quelle nennt keine Menge"
+    },
+    {
+     "item": "schwarzer Pfeffer",
+     "amount": null,
+     "unit": null,
+     "per": "basis",
+     "note": "Quelle nennt keine Menge"
+    }
+   ],
+   "steps": [
+    "Den Backofen auf 200 °C Ober-/Unterhitze vorheizen.",
+    "Den Lachs abtupfen und auf Gräten prüfen.",
+    "Petersilie, Koriander und Dill waschen, die Blätter abzupfen, hacken und in eine Schale geben.",
+    "Die Schale der gewaschenen Limette zu den Kräutern reiben, die Knoblauchzehe dazupressen, mit Salz und Pfeffer würzen.",
+    "Den Lachs in den Kräutern wälzen, bis er rundum bedeckt ist.",
+    "Den Blätterteig aufklappen. Den Lachs mit ca. 2 cm Abstand zum Rand auf den Teig legen, die Seiten einklappen und den Fisch einrollen.",
+    "Den Lachs im Blätterteig auf ein Backblech legen. Das Eigelb verquirlen und den Teig damit bestreichen.",
+    "Den Teig leicht einschneiden und den Sesam darüber verteilen.",
+    "Ca. 25–30 Minuten goldbraun backen. Die Kerntemperatur des Lachses soll 52–55 °C erreichen, dann bleibt er zart.",
+    "Mit einem scharfen Messer in Portionen schneiden.",
+    "Danke an eat.de (https://eat.de/rezept/lachs-im-blaetterteig/) für das Rezept.",
+    "Dazu passt Reis, Spinat, Buttergemüse und mehr, je nach Geschmack."
+   ],
+   "trick": "Kerntemperatur 52–55 °C, dann bleibt der Lachs zart und saftig.",
+   "open": [
+    "Quelle nennt keine Mengen für Salz und Pfeffer.",
+    "Kein Bild vorhanden; Foto vom fertigen Gericht kann Rappy nachliefern."
+   ],
+   "nutritionPerPerson": {
+    "source": "eat.de (pro Portion, Datenbasis der Seite)",
+    "kcal": 579,
+    "proteinG": 30,
+    "fatG": 40,
+    "carbsG": 25
+   },
+   "image": null,
+   "imageNote": "Kein Bild.",
+   "categories": [
+    "Abendessen",
+    "Hauptgericht",
+    "Fisch",
+    "Ofen"
    ]
   }
  ]
