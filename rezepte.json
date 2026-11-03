@@ -5222,9 +5222,7 @@
     "Dazu passt Reis, Spinat, Buttergemüse und mehr, je nach Geschmack."
    ],
    "trick": "Kerntemperatur 52–55 °C, dann bleibt der Lachs zart und saftig.",
-   "open": [
-    "Kein Bild vorhanden; Foto vom fertigen Gericht kann Rappy nachliefern."
-   ],
+   "open": [],
    "nutritionPerPerson": {
     "source": "eat.de (pro Portion, Datenbasis der Seite)",
     "kcal": 579,
@@ -5232,8 +5230,8 @@
     "fatG": 40,
     "carbsG": 25
    },
-   "image": null,
-   "imageNote": "Kein Bild.",
+   "image": "bilder/lachs-blaetterteig-kraeuter.jpg",
+   "imageNote": "Bild von eat.de (Quelle des Rezepts).",
    "categories": [
     "Abendessen",
     "Hauptgericht",
