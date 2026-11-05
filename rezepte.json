@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-03",
+ "updated": "2026-11-05",
  "rules": [
   "Personen flexibel. basisPersons ist die Quellenmenge, nicht die einzige Portion.",
   "Nie ein halbes Ei. Dose und Becher dürfen halb, Rest kühl.",
@@ -5237,6 +5237,82 @@
     "Hauptgericht",
     "Fisch",
     "Ofen"
+   ]
+  },
+  {
+   "id": "crepes-pfannkuchen",
+   "title": "Crêpes-Pfannkuchen",
+   "source": {
+    "name": "Rappy",
+    "title": "Eigenes Rezept",
+    "url": null
+   },
+   "timeMin": null,
+   "status": "v1, Eigenrezept von Rappy",
+   "basisPersons": 4,
+   "scale": "Basis 4 (Rappys Menge für 4 Personen). Eier ganz, nie halb.",
+   "ingredients": [
+    {
+     "item": "Mehl",
+     "amount": 250,
+     "unit": "g",
+     "per": "basis"
+    },
+    {
+     "item": "Salz",
+     "amount": 1,
+     "unit": "Prise",
+     "per": "basis"
+    },
+    {
+     "item": "Zucker",
+     "amount": 2,
+     "unit": "TL",
+     "per": "basis"
+    },
+    {
+     "item": "Eier",
+     "amount": 6,
+     "unit": "Stück",
+     "per": "basis"
+    },
+    {
+     "item": "Milch",
+     "amount": 250,
+     "unit": "ml",
+     "per": "basis"
+    },
+    {
+     "item": "Sprudelwasser",
+     "amount": 250,
+     "unit": "ml",
+     "per": "basis"
+    },
+    {
+     "item": "Öl",
+     "amount": null,
+     "unit": null,
+     "per": "basis",
+     "note": "zum Einpinseln der Pfanne, Menge nicht genannt"
+    }
+   ],
+   "steps": [
+    "Alle Zutaten mit dem Mixer vermengen.",
+    "Öl in eine kleine Schüssel geben und die Pfanne vor jedem neuen Pfannkuchen mit einem Pinsel einölen.",
+    "Mit einer Kelle möglichst dünne Pfannkuchen braten."
+   ],
+   "trick": null,
+   "open": [
+    "Zeit nicht angegeben.",
+    "Menge Öl nicht angegeben."
+   ],
+   "nutritionPerPerson": null,
+   "image": "bilder/crepes-pfannkuchen.jpg",
+   "imageNote": "Foto von Rappy, auf 16:9 zugeschnitten.",
+   "categories": [
+    "Frühstück/Brunch",
+    "Pfanne",
+    "Schnell"
    ]
   }
  ]
