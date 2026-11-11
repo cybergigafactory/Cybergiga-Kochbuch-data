@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-09",
+  "updated": "2026-11-11",
   "rules": [
     "Personen flexibel. basisPersons ist die Quellenmenge, nicht die einzige Portion.",
     "Nie ein halbes Ei. Dose und Becher dürfen halb, Rest kühl.",
@@ -5364,6 +5364,13 @@
           "amount": 1,
           "unit": "EL",
           "per": "basis"
+        },
+        {
+          "item": "Onigiri-Algen, gewürzt",
+          "amount": null,
+          "unit": null,
+          "per": "basis",
+          "note": "Nach Bedarf"
         }
       ],
       "steps": [
