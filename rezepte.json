@@ -5247,7 +5247,7 @@
         "title": "Eigenes Rezept",
         "url": null
       },
-      "timeMin": null,
+      "timeMin": 60,
       "status": "v1, Eigenrezept von Rappy",
       "basisPersons": 4,
       "scale": "Basis 4 (Rappys Menge für 4 Personen). Eier ganz, nie halb.",
@@ -5301,9 +5301,8 @@
         "Öl in eine kleine Schüssel geben und die Pfanne vor jedem neuen Pfannkuchen mit einem Pinsel einölen.",
         "Mit einer Kelle möglichst dünne Pfannkuchen braten."
       ],
-      "trick": null,
+      "trick": "Zeit: 60 min für 4 Portionen (+15 min pro Portion mehr, -15 min pro Portion weniger).",
       "open": [
-        "Zeit nicht angegeben.",
         "Menge Öl nicht angegeben."
       ],
       "image": "bilder/crepes-pfannkuchen.jpg",
