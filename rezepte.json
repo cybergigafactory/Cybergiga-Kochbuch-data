@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-11",
+  "updated": "2026-11-19",
   "rules": [
     "Personen flexibel. basisPersons ist die Quellenmenge, nicht die einzige Portion.",
     "Nie ein halbes Ei. Dose und Becher dürfen halb, Rest kühl.",
@@ -5390,6 +5390,97 @@
         "Reis",
         "Fleisch",
         "Fingerfood"
+      ]
+    },
+    {
+      "id": "american-cookies",
+      "title": "American Cookies (außen knusprig, innen weich)",
+      "source": {
+        "name": "einfachbacken.de",
+        "title": "American Cookies – außen knusprig & innen weich!",
+        "url": "https://einfachbacken.de/rezepte/american-cookies-aussen-knusprig-innen-weich",
+        "channelUrl": null,
+        "credit": "Danke an [einfachbacken.de](https://einfachbacken.de/rezepte/american-cookies-aussen-knusprig-innen-weich) für das Rezept."
+      },
+      "timeMin": 45,
+      "status": "v1, ungetestet",
+      "basisPersons": 12,
+      "scale": "Basis 12 Cookies. Eier ganz, nie halb.",
+      "ingredients": [
+        {
+          "item": "Butter, weich",
+          "amount": 250,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Zucker",
+          "amount": 100,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Brauner Zucker",
+          "amount": 150,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Vanilleextrakt",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Eier (Gr. M)",
+          "amount": 2,
+          "unit": null,
+          "per": "basis"
+        },
+        {
+          "item": "Weizenmehl (Type 405)",
+          "amount": 360,
+          "unit": "g",
+          "per": "basis"
+        },
+        {
+          "item": "Backpulver",
+          "amount": 1,
+          "unit": "TL",
+          "per": "basis"
+        },
+        {
+          "item": "Salz",
+          "amount": 1,
+          "unit": "Prise",
+          "per": "basis"
+        },
+        {
+          "item": "Chocolate Chunks",
+          "amount": 200,
+          "unit": "g",
+          "per": "basis",
+          "note": "ca. 180 g in den Teig, Rest obendrauf"
+        }
+      ],
+      "steps": [
+        "Weiche Butter mit beiden Zuckersorten mehrere Minuten cremig schlagen. Vanilleextrakt und Eier zugeben und kurz verrühren. Mehl, Backpulver und Salz mischen, dazugeben und zu einem Teig verrühren.",
+        "Ca. 180 g der Chocolate Chunks unter den Teig heben. Den Ofen auf 180 °C Ober-/Unterhitze (Umluft 160 °C) vorheizen. Zwei Backbleche mit Backpapier auslegen.",
+        "Ca. 12 Kugeln abstechen, rund formen und mit viel Abstand aufs Blech setzen, etwa 6 pro Blech, weil sie verlaufen. Leicht platt drücken.",
+        "Die restlichen Chunks auf den Kugeln verteilen und leicht andrücken. 10 bis 12 Minuten backen. Der Rand soll nicht zu dunkel werden, die Mitte darf noch etwas feucht aussehen.",
+        "Ca. 10 Minuten auf dem Blech abkühlen lassen, dann vorsichtig auf ein Kuchengitter setzen. Beim Abkühlen werden sie fester.",
+        "Danke an einfachbacken.de (https://einfachbacken.de/rezepte/american-cookies-aussen-knusprig-innen-weich) für das Rezept."
+      ],
+      "trick": "Arbeitszeit 30 min, gesamt 45 min.",
+      "open": [],
+      "image": "bilder/american-cookies.jpg",
+      "imageNote": "Foto von madamecuisine.de, von Rappy ausgewählt, auf 16:9 zugeschnitten.",
+      "categories": [
+        "Kuchen/Gebäck",
+        "Plätzchen",
+        "Dessert",
+        "Ofen",
+        "Snack"
       ]
     }
   ]
